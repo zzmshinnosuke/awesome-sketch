@@ -46,61 +46,69 @@
     </tr>
     <tr>
         <td rowspan="4"><strong>Instance</strong></td>
-        <td>TU-Berlin</td>
-        <td>&check;</td>
+        <td><a href="http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/">TU-Berlin</a></td>
+        <td>&check;(svg)</td>
         <td>&cross;</td>
         <td>SIGGRAPH 2012</td>
-        <td>250 category 80张/类 20k张</td>
-        <td>专业人士绘制、比较形象</td>
+        <td>250 categories; 80 sketch/cat; 20k sketches</td>
+        <td>第一个大规模的草图数据集、比较形象</td>
     </tr>
     <tr>
-        <td>Sketchy</td>
-        <td>&check;</td>
+        <td><a href="http://sketchy.eye.gatech.edu/">Sketchy</a></td>
+        <td>&check;(svg)</td>
         <td>&check;</td>
         <td>SIGGRAPH 2016</td>
-        <td>125类 75471张</td>
+        <td>125 categories; 75471 sketches; 12500 images</td>
         <td>草图和图片一一对应</td>
     </tr>
     <tr>
-        <td>Quickdraw</td>
-        <td>&check;</td>
+        <td><a href="https://openreview.net/forum?id=Hy6GHpkCW">Quickdraw</a></td>
+        <td>&check;(5-tuple)</td>
         <td>&cross;</td>
         <td>ICLR 2018</td>
-        <td>345类 10k/类</td>
+        <td>345 categories; 10k/cat</td>
         <td>数据量大、抽象性高、噪音多</td>
     </tr>
     <tr>
-        <td>QMUL-Shoe-V2</td>
-        <td>&cross;</td>
+        <td><a href="https://www.eecs.qmul.ac.uk/~qian/Project_cvpr16.html">QMUL-Shoe-V2</a></td>
+        <td>&cross;(mat)</td>
         <td>&cross;</td>
         <td>CVPR 2018</td>
-        <td>345类 10k/类</td>
-        <td>包含两类物体椅子和鞋，跟图片对应</td>
+        <td>2 categries; 700 sketches</td>
+        <td>包含两类物体椅子和鞋，跟图片对应的准确率更高</td>
     </tr>
     <tr>
-        <td rowspan="3"><strong>Scene</strong></td>
-        <td>SketchyScene</td>
+        <td rowspan="4"><strong>Scene</strong></td>
+        <td><a href="https://arxiv.org/abs/1808.02473">SketchyScene</a></td>
+        <td>&cross;(mat)</td>
         <td>&check;</td>
-        <td>&cross;</td>
-        <td>SIGGRAPH 2012</td>
-        <td>250 category 80张/类 20k张</td>
-        <td>专业人士绘制、比较形象</td>
+        <td>ECCV 2018</td>
+        <td>train:5617; test:1113; val:535</td>
+        <td>场景图、草图和图像对应、图片是动漫图片</td>
     </tr>
     <tr>
-        <td>SketchyCoCo</td>
+        <td><a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_SketchyCOCO_Image_Generation_From_Freehand_Scene_Sketches_CVPR_2020_paper.pdf">SketchyCOCO</a></td>
+        <td>&cross;(mat)</td>
         <td>&check;</td>
-        <td>&cross;</td>
-        <td>ICLR 2018</td>
-        <td>345类 10k/类</td>
-        <td>数据量大、抽象性高、噪音多</td>
+        <td>CVPR 2020</td>
+        <td>train:11265 ; test:2816</td>
+        <td>与图像对应的场景草图数据集</td>
     </tr>
     <tr>
-        <td>Quickdraw</td>
-        <td>&check;</td>
+        <td><a href="http://projects.csail.mit.edu/cmplaces/">CMPlaces</a></td>
         <td>&cross;</td>
-        <td>ICLR 2018</td>
-        <td>345类 10k/类</td>
-        <td>数据量大、抽象性高、噪音多</td>
+        <td>&check;</td>
+        <td>TPAMI 2018</td>
+        <td>train:6644; test:2050</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="http://sweb.cityu.edu.hk/hongbofu/doc/context_based_sketch_classification_Expressive2018.pdf">Context-Skecth</a></td>
+        <td>&cross;</td>
+        <td>&check;</td>
+        <td>Expressive 2018</td>
+        <td>354 sketches</td>
+        <td></td>
     </tr>
 </table>
 
