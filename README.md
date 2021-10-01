@@ -11,10 +11,10 @@
 * [Sketch-Based Image Retrival](#SBIR)
 
 
-## Dataset
+## Datasets
 <table>
     <tr>
-        <td> </td>
+        <td><strong>Type</strong></td>
         <td><strong>Dataset</strong></td>
         <td><strong>Vector</strong></td>
         <td><strong>Paired</strong></td>
@@ -23,8 +23,9 @@
         <td><strong>Remark</strong></td> 
     </tr>
     <tr>
-        <td rowspan="3"><strong>Characters</strong></td>
+        <td rowspan="3"><strong>Character</strong></td>
         <td>Omniglob</td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -36,9 +37,11 @@
         <td></td>
         <td></td>
         <td></td>
+        <td></td>
     </tr>
     <tr>
         <td>Kuzushiji</td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -78,7 +81,7 @@
         <td>包含两类物体椅子和鞋，跟图片对应的准确率更高</td>
     </tr>
     <tr>
-        <td rowspan="4"><strong>Scene</strong></td>
+        <td rowspan="5"><strong>Scene</strong></td>
         <td><a href="https://arxiv.org/abs/1808.02473">SketchyScene</a></td>
         <td>&cross;(mat)</td>
         <td>&check;</td>
@@ -108,6 +111,23 @@
         <td>&check;</td>
         <td>Expressive 2018</td>
         <td>354 sketches</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="">ours</a></td>
+        <td>&check;</td>
+        <td>&check;</td>
+        <td></td>
+        <td></td>
+        <td>sketch-text-image对应、同时包含单物体或多物体、包含普通和专业人士绘制</td>
+    </tr>
+    <tr>
+        <td rowspan="1"><strong>CAD</strong></td>
+        <td><a href=""></a></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
         <td></td>
     </tr>
 </table>
