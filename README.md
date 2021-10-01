@@ -12,6 +12,97 @@
 
 
 ## Dataset
+<table>
+    <tr>
+        <td> </td>
+        <td><strong>Dataset</strong></td>
+        <td><strong>Vector</strong></td>
+        <td><strong>Paired</strong></td>
+        <td><strong>Source</strong></td> 
+        <td><strong>Scale</strong></td> 
+        <td><strong>Remark</strong></td> 
+    </tr>
+    <tr>
+        <td rowspan="3"><strong>Characters</strong></td>
+        <td>Omniglob</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>KanjiVG</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Kuzushiji</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td rowspan="4"><strong>Instance</strong></td>
+        <td>TU-Berlin</td>
+        <td>&check;</td>
+        <td>&cross;</td>
+        <td>SIGGRAPH 2012</td>
+        <td>250 category 80张/类 20k张</td>
+        <td>专业人士绘制、比较形象</td>
+    </tr>
+    <tr>
+        <td>Sketchy</td>
+        <td>&check;</td>
+        <td>&check;</td>
+        <td>SIGGRAPH 2016</td>
+        <td>125类 75471张</td>
+        <td>草图和图片一一对应</td>
+    </tr>
+    <tr>
+        <td>Quickdraw</td>
+        <td>&check;</td>
+        <td>&cross;</td>
+        <td>ICLR 2018</td>
+        <td>345类 10k/类</td>
+        <td>数据量大、抽象性高、噪音多</td>
+    </tr>
+    <tr>
+        <td>QMUL-Shoe-V2</td>
+        <td>&cross;</td>
+        <td>&cross;</td>
+        <td>CVPR 2018</td>
+        <td>345类 10k/类</td>
+        <td>包含两类物体椅子和鞋，跟图片对应</td>
+    </tr>
+    <tr>
+        <td rowspan="3"><strong>Scene</strong></td>
+        <td>SketchyScene</td>
+        <td>&check;</td>
+        <td>&cross;</td>
+        <td>SIGGRAPH 2012</td>
+        <td>250 category 80张/类 20k张</td>
+        <td>专业人士绘制、比较形象</td>
+    </tr>
+    <tr>
+        <td>SketchyCoCo</td>
+        <td>&check;</td>
+        <td>&cross;</td>
+        <td>ICLR 2018</td>
+        <td>345类 10k/类</td>
+        <td>数据量大、抽象性高、噪音多</td>
+    </tr>
+    <tr>
+        <td>Quickdraw</td>
+        <td>&check;</td>
+        <td>&cross;</td>
+        <td>ICLR 2018</td>
+        <td>345类 10k/类</td>
+        <td>数据量大、抽象性高、噪音多</td>
+    </tr>
+</table>
 
 ## Sketch-Semantic-Segmentation
 - [SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3450284), TOG, 2021
