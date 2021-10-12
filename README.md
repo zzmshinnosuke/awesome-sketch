@@ -24,28 +24,28 @@
     </tr>
     <tr>
         <td rowspan="3"><strong>Character</strong></td>
-        <td>Omniglob</td>
+        <td><a href="https://github.com/brendenlake/omniglot/">Omniglot</a></td>
+        <td>&check;</td>
+        <td>&cross;</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Alphabets characters</td>
     </tr>
     <tr>
-        <td>KanjiVG</td>
+        <td><a href="http://kanjivg.tagaini.net/">KanjiVG</a></td>
+        <td>&check;</td>
+        <td>&cross;</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Chinese characters</td>
     </tr>
     <tr>
-        <td>Kuzushiji</td>
+        <td><a href="http://kanjivg.tagaini.net/">KanjiVG</a></td>
+        <td>&cross;</td>
+        <td>&cross;</td>
         <td></td>
         <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>Japanese characters</td>
     </tr>
     <tr>
         <td rowspan="4"><strong>Instance</strong></td>
