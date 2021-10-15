@@ -40,7 +40,7 @@
         <td>Chinese characters</td>
     </tr>
     <tr>
-        <td><a href="http://kanjivg.tagaini.net/">KanjiVG</a></td>
+        <td><a href="https://github.com/rois-codh/kmnist">Kuzushiji</a></td>
         <td>&cross;</td>
         <td>&cross;</td>
         <td></td>
@@ -81,7 +81,7 @@
         <td>包含两类物体椅子和鞋，跟图片对应的准确率更高</td>
     </tr>
     <tr>
-        <td rowspan="5"><strong>Scene</strong></td>
+        <td rowspan="6"><strong>Scene</strong></td>
         <td><a href="https://arxiv.org/abs/1808.02473">SketchyScene</a></td>
         <td>&cross;(mat)</td>
         <td>&check;</td>
@@ -112,6 +112,14 @@
         <td>Expressive 2018</td>
         <td>354 sketches</td>
         <td></td>
+    </tr>
+    <tr>
+        <td><a href="http://www.cs.cmu.edu/~mengtial/proj/sketch/">Photo-Sketching</a></td>
+        <td>&check;(svg)</td>
+        <td>&check;</td>
+        <td>WACV 2019</td>
+        <td>5000 sketches；1000 images</td>
+        <td>场景草图，但是没有单个物体的标注。trace</td>
     </tr>
     <tr>
         <td><a href="">ours</a></td>
