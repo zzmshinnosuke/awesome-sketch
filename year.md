@@ -2,17 +2,22 @@
 
 
 ## 2021
+### siggraph
+- [Tracing Versus Freehand for Evaluating Computer-Generated Drawings](https://graphics.cs.yale.edu/sites/default/files/tracing-vs-freehand_0.pdf), WANG, ZEYU, SHERRY QIU, NICOLE FENG, HOLLY RUSHMEIER, LEONARD MCMILLAN, and JULIE DORSEY(Yale University), [source code](https://github.com/zachzeyuwang/tracing-vs-freehand), [dataset](http://tracer.cs.yale.edu:8000/tracing-vs-freehand/data/) 
 
 ## 2020
 
 ## 2019
 ### CVPR
 
+### WACV
+- [Photo-Sketching: Inferring Contour Drawings from Images](https://arxiv.org/pdf/1901.00542.pdf), [source code](https://github.com/mtli/PhotoSketch), [dataset](http://www.cs.cmu.edu/~mengtial/proj/sketch/)
+
 
 
 
 ## 2018
-### sigraph：
+### siggraph：
 - [FaceShop: Deep Sketch-based Face Image Editing](https://arxiv.org/abs/1804.08972)，Tiziano Portenier Qiyang Hu, Attila Szabo, Siavash Bigdeli, Paolo Favaro, Matthias Zwicker(University of Bern)
 - [Real-Time Data-Driven Interactive Rough Sketch Inking](https://esslab.jp/~ess/en/research/inking/)，Edgar Simo-Serra, Satoshi Iizuka, Hiroshi Ishikawa (Waseda University)
 - [Mastering Sketching: Adversarial Augmentation for Structured Prediction](https://esslab.jp/~ess/en/research/sketch_master/)， Edgar Simo-Serra*, Satoshi Iizuka*, Hiroshi Ishikawa (Waseda University) (*equal contribution)

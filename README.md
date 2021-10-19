@@ -3,6 +3,7 @@
 ## Code and Framework
 [sketch-rnn](https://github.com/magenta/magenta/tree/master/magenta/models/sketch_rnn)  
 [torchsketch](https://github.com/PengBoXiangShang/torchsketch)
+[Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis)
 
 
 ## Table of Contents
@@ -48,7 +49,7 @@
         <td>Japanese characters</td>
     </tr>
     <tr>
-        <td rowspan="4"><strong>Instance</strong></td>
+        <td rowspan="5"><strong>Instance</strong></td>
         <td><a href="http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/">TU-Berlin</a></td>
         <td>&check;(svg)</td>
         <td>&cross;</td>
@@ -62,14 +63,14 @@
         <td>&check;</td>
         <td>SIGGRAPH 2016</td>
         <td>125 categories; 75471 sketches; 12500 images</td>
-        <td>草图和图片一一对应</td>
+        <td>每张图片对应5张草图</td>
     </tr>
     <tr>
         <td><a href="https://openreview.net/forum?id=Hy6GHpkCW">Quickdraw</a></td>
         <td>&check;(5-tuple)</td>
         <td>&cross;</td>
         <td>ICLR 2018</td>
-        <td>345 categories; 10k/cat</td>
+        <td>345 categories; 10k/cat; 50M sketches</td>
         <td>数据量大、抽象性高、噪音多</td>
     </tr>
     <tr>
@@ -79,6 +80,14 @@
         <td>CVPR 2018</td>
         <td>2 categries; 700 sketches</td>
         <td>包含两类物体椅子和鞋，跟图片对应的准确率更高</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/HaohanWang/ImageNet-Sketch">ImageNet-Sketch</a></td>
+        <td>&cross;</td>
+        <td>&cross;</td>
+        <td>NIPS 2019</td>
+        <td>50000 sketches(image); 1000 ImageNet categories</td>
+        <td>单物体、接近图片、很真实、有阴影</td>
     </tr>
     <tr>
         <td rowspan="6"><strong>Scene</strong></td>
