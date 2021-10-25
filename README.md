@@ -49,7 +49,7 @@
         <td>Japanese characters</td>
     </tr>
     <tr>
-        <td rowspan="5"><strong>Instance</strong></td>
+        <td rowspan="6"><strong>Instance</strong></td>
         <td><a href="http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/">TU-Berlin</a></td>
         <td>&check;(svg)</td>
         <td>&cross;</td>
@@ -88,6 +88,14 @@
         <td>NIPS 2019</td>
         <td>50000 sketches(image); 1000 ImageNet categories</td>
         <td>单物体、接近图片、很真实、有阴影</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/zachzeyuwang/tracing-vs-freehand">Tracing-Freehand</a></td>
+        <td>&check;</td>
+        <td>&check;</td>
+        <td>SIGGRAPH 2021</td>
+        <td>1210 Tracing；288 Freehand</td>
+        <td>没有类别</td>
     </tr>
     <tr>
         <td rowspan="6"><strong>Scene</strong></td>
