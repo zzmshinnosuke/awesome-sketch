@@ -19,9 +19,17 @@
 - [CREATIVE SKETCH GENERATION](https://arxiv.org/pdf/2011.10039.pdf )
 
 ## 2020
+### TOG
+- [Sketch2CAD: Sequential CAD Modeling by Sketching in Context](https://dl.acm.org/doi/pdf/10.1145/3414685.3417807)
+- [Pixelor: A Competitive Sketching AI Agent. So you think you can sketch?](https://dl.acm.org/doi/pdf/10.1145/3414685.3417840)
+- [DeepFaceDrawing: Deep generation of face images from sketches](https://dl.acm.org/doi/pdf/10.1145/3386569.3392386)
+
 ### CVPR
 - [Learning to Shadow Hand-drawn Sketches](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Learning_to_Shadow_Hand-Drawn_Sketches_CVPR_2020_paper.pdf)
 - [Sketch-bert: Learning sketch bidirectional encoder representation from transformers by self-supervised learning of sketch gestalt](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Sketch-BERT_Learning_Sketch_Bidirectional_Encoder_Representation_From_Transformers_by_Self-Supervised_CVPR_2020_paper.pdf)
+
+### ECCV
+- [Unsupervised Sketch-to-Photo Synthesis](https://arxiv.org/pdf/1909.08313.pdf)
 
 ## 2019
 ### CVPR
