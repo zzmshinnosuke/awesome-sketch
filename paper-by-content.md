@@ -5,12 +5,13 @@
 ## Sketch-Semantic-Segmentation
 - [SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3450284), TOG, 2021
 
-- [Instance GNN: A Learning Framework for Joint Symbol Segmentation and Recognition in Online Handwritten Diagrams](http://www.nlpr.ia.ac.cn/databases/CASIA-OHFC/flowchart_recognition_TMM_2021-2nd%20submission.pdf)  , Multimedia, 2021, 
-[dataset](http://www.nlpr.ia.ac.cn/databases/CASIA-OHFC/)
+- [Instance GNN: A Learning Framework for Joint Symbol Segmentation and Recognition in Online Handwritten Diagrams](http://www.nlpr.ia.ac.cn/databases/CASIA-OHFC/flowchart_recognition_TMM_2021-2nd%20submission.pdf)  , Multimedia, 2021, [dataset](http://www.nlpr.ia.ac.cn/databases/CASIA-OHFC/)
 
 - [FloorPlanCAD: A Large-Scale CAD Drawing Dataset for Panoptic Symbol Spotting](https://arxiv.org/pdf/2105.07147.pdf), arXiv, 2021
 
 - [SketchSegNet+: An End-to-End Learning of RNN for Multi-Class Sketch Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8766108), IEEE Access, 2019
+
+- [Deep Stroke-Based Sketched Symbol Reconstruction and Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8854308), CGA, 2019
 
 - [Bitmap or Vector? A study on sketch representations for deep stroke segmentation](https://hal.inria.fr/hal-02922043/document), JFIJ, 2019
 
