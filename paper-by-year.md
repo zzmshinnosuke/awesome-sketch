@@ -12,6 +12,12 @@
 - [QAIR: Practical Query-efficient Black-Box Attacks for Image Retrieval](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_QAIR_Practical_Query-Efficient_Black-Box_Attacks_for_Image_Retrieval_CVPR_2021_paper.pdf)
 - [StyleMeUp: Towards Style-Agnostic Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2021/papers/Sain_StyleMeUp_Towards_Style-Agnostic_Sketch-Based_Image_Retrieval_CVPR_2021_paper.pdf)
 
+### MMAsia
+- [Table Detection and Cell Segmentation in Online Handwritten Documents with Graph Attention Networks](https://dl.acm.org/doi/pdf/10.1145/3444685.3446295)
+
+### ICLR
+- [CREATIVE SKETCH GENERATION](https://arxiv.org/pdf/2011.10039.pdf )
+
 ## 2020
 ### CVPR
 - [Learning to Shadow Hand-drawn Sketches](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Learning_to_Shadow_Hand-Drawn_Sketches_CVPR_2020_paper.pdf)

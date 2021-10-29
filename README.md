@@ -2,7 +2,7 @@
 
 ## Code and Framework
 [sketch-rnn](https://github.com/magenta/magenta/tree/master/magenta/models/sketch_rnn)  
-[torchsketch](https://github.com/PengBoXiangShang/torchsketch)
+[torchsketch](https://github.com/PengBoXiangShang/torchsketch)  
 [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis)
 
 ## Table of Contents
