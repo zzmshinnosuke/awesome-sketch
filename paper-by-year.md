@@ -32,11 +32,33 @@
 - [Unsupervised Sketch-to-Photo Synthesis](https://arxiv.org/pdf/1909.08313.pdf)
 
 ## 2019
+### TOG
+- [Vectorization of Line Drawings via PolyVector Fields](https://dl.acm.org/doi/pdf/10.1145/3202661)
+
 ### CVPR
+- [SketchGAN: Joint Sketch Completion and Recognition with Generative Adversarial Network](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_SketchGAN_Joint_Sketch_Completion_and_Recognition_With_Generative_Adversarial_Network_CVPR_2019_paper.pdf)
+
+### ICCV
+- [SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch and Color](https://openaccess.thecvf.com/content_ICCV_2019/papers/Jo_SC-FEGAN_Face_Editing_Generative_Adversarial_Network_With_Users_Sketch_and_ICCV_2019_paper.pdf)
+
+### AAAI
+- [AI-Sketcher: A Deep Generative Model for Producing High-Quality Sketches](https://ojs.aaai.org/index.php/AAAI/article/download/4103/3981)
+
+### CHI
+- [Mobi3DSketch: 3D Sketching in Mobile AR](https://dl.acm.org/doi/pdf/10.1145/3290605.3300406)
+- [Sensing Posture-Aware Pen+Touch Interaction on Tablets](https://dl.acm.org/doi/pdf/10.1145/3290605.3300285)
+
+### UIST
+- [Sketchforme: Composing Sketched Scenes from Text Descriptions for Interactive Applications](https://dl.acm.org/doi/pdf/10.1145/3332165.3347878)
 
 ### WACV
 - [Photo-Sketching: Inferring Contour Drawings from Images](https://arxiv.org/pdf/1901.00542.pdf), [(source code)](https://github.com/mtli/PhotoSketch), [(dataset)](http://www.cs.cmu.edu/~mengtial/proj/sketch/)
 
+### MMTA
+- [A complete hand-drawn sketch vectorization framework](https://arxiv.org/pdf/1802.05902.pdf)
+
+### ICIP
+- [Deep zero-shot learning for scene sketch](https://arxiv.org/pdf/1905.04510)
 
 
 
