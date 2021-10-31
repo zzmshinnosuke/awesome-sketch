@@ -3,9 +3,10 @@
 ## 2021
 ### siggraph
 - [Tracing Versus Freehand for Evaluating Computer-Generated Drawings](https://graphics.cs.yale.edu/sites/default/files/tracing-vs-freehand_0.pdf), WANG, ZEYU, SHERRY QIU, NICOLE FENG, HOLLY RUSHMEIER, LEONARD MCMILLAN, and JULIE DORSEY(Yale University), [[source code]](https://github.com/zachzeyuwang/tracing-vs-freehand), [[dataset]](http://tracer.cs.yale.edu:8000/tracing-vs-freehand/data/) 
+- [Knit Sketching: from Cut & Sew Patterns to Machine-Knit Garments](http://knitsketching.csail.mit.edu/ks-paper.pdf), [[code]](https://github.com/xionluhnis/knitsketching), [[project]](http://knitsketching.csail.mit.edu/)
 
 ### TOG
-- [General Virtual Sketching Framework for Vector Line Art](https://dl.acm.org/doi/pdf/10.1145/3450626.3459833), [[source code]](https://github.com/MarkMoHR/virtual_sketching)
+- [General Virtual Sketching Framework for Vector Line Art](https://dl.acm.org/doi/pdf/10.1145/3450626.3459833), [[source code]](https://github.com/MarkMoHR/virtual_sketching)， [[project]](https://markmohr.github.io/virtual_sketching/)
 - [SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3450284), [[source code]](https://github.com/sYeaLumin/SketchGNN)
 
 ### CVPR
