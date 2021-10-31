@@ -15,12 +15,8 @@
 - [More Photos Are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhunia_More_Photos_Are_All_You_Need_Semi-Supervised_Learning_for_Fine-Grained_CVPR_2021_paper.pdf)
 - [Sketch, Ground, and Refine: Top-Down Dense Video Captioning](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Sketch_Ground_and_Refine_Top-Down_Dense_Video_Captioning_CVPR_2021_paper.pdf)
 
-
-### MMAsia
-- [Table Detection and Cell Segmentation in Online Handwritten Documents with Graph Attention Networks](https://dl.acm.org/doi/pdf/10.1145/3444685.3446295)
-
 ### ICLR
-- [CREATIVE SKETCH GENERATION](https://arxiv.org/pdf/2011.10039.pdf )
+- [CREATIVE SKETCH GENERATION](https://arxiv.org/pdf/2011.10039.pdf)
 
 ## 2020
 ### TOG
