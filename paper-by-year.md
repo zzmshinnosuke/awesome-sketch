@@ -39,6 +39,11 @@
 
 ### ECCV
 - [Unsupervised Sketch-to-Photo Synthesis](https://arxiv.org/pdf/1909.08313.pdf)
+- [BézierSketch: A generative model for scalable vector sketches](https://arxiv.org/pdf/2007.02190v2.pdf), [[code]](https://github.com/dasayan05/stroke-ae)
+- [Curriculum DeepSDF](https://arxiv.org/pdf/2003.08593v3.pdf), [[code]](https://github.com/haidongz-usc/Curriculum-DeepSDF)
+- [Sketch-Guided Object Localization in Natural Images](https://arxiv.org/pdf/2008.06551v1.pdf), [[code]](https://github.com/IISCAditayTripathi/SketchGuidedLocalization)
+- [Sketching Image Gist: Human-Mimetic Hierarchical Scene Graph Generation](https://arxiv.org/pdf/2007.08760v1.pdf), [[code]](https://github.com/Kenneth-Wong/het-eccv20)
+
 
 ## 2019
 ### TOG
