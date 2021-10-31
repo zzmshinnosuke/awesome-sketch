@@ -28,8 +28,13 @@
 - [DeepFaceDrawing: Deep generation of face images from sketches](https://dl.acm.org/doi/pdf/10.1145/3386569.3392386)
 
 ### CVPR
-- [Learning to Shadow Hand-drawn Sketches](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Learning_to_Shadow_Hand-Drawn_Sketches_CVPR_2020_paper.pdf)
-- [Sketch-bert: Learning sketch bidirectional encoder representation from transformers by self-supervised learning of sketch gestalt](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Sketch-BERT_Learning_Sketch_Bidirectional_Encoder_Representation_From_Transformers_by_Self-Supervised_CVPR_2020_paper.pdf)
+- [Learning to Shadow Hand-drawn Sketches](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Learning_to_Shadow_Hand-Drawn_Sketches_CVPR_2020_paper.pdf), [[code]](https://github.com/qyzdao/ShadeSketch)
+- [Sketch-bert: Learning sketch bidirectional encoder representation from transformers by self-supervised learning of sketch gestalt](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Sketch-BERT_Learning_Sketch_Bidirectional_Encoder_Representation_From_Transformers_by_Self-Supervised_CVPR_2020_paper.pdf), [[code]](https://github.com/avalonstrel/SketchBERT)
+- [3D Sketch-aware Semantic Scene Completion via Semi-supervised Structure Prior](https://arxiv.org/pdf/2003.14052v1.pdf), [[code]](https://github.com/charlesCXK/TorchSSC)
+- [Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence](https://arxiv.org/pdf/2005.05207v1.pdf), [[code]](https://github.com/seungjae-won/paper-to-code-Reference-Based-Sketch-Image-Colorization)
+- [Sketchformer: Transformer-based Representation for Sketched Structure](https://paperswithcode.com/paper/sketchformer-transformer-based-representation#code), [[code]](https://github.com/leosampaio/sketchformer)
+- [Sketch Less for More: On-the-Fly Fine-Grained Sketch Based Image Retrieval](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bhunia_Sketch_Less_for_More_On-the-Fly_Fine-Grained_Sketch-Based_Image_Retrieval_CVPR_2020_paper.pdf), [[code]](https://github.com/AyanKumarBhunia/on-the-fly-FGSBIR)
+- [SketchyCOCO: Image Generation from Freehand Scene Sketches](https://arxiv.org/pdf/2003.02683v5.pdf), [[code]](https://github.com/sysu-imsl/EdgeGAN)
 
 ### ECCV
 - [Unsupervised Sketch-to-Photo Synthesis](https://arxiv.org/pdf/1909.08313.pdf)
@@ -40,6 +45,8 @@
 
 ### CVPR
 - [SketchGAN: Joint Sketch Completion and Recognition with Generative Adversarial Network](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_SketchGAN_Joint_Sketch_Completion_and_Recognition_With_Generative_Adversarial_Network_CVPR_2019_paper.pdf)
+- [Doodle to Search: Practical Zero-Shot Sketch-based Image Retrieval](https://arxiv.org/pdf/1904.03451v2.pdf), [[code]](https://github.com/sounakdey/doodle2search)
+- [Semantically Tied Paired Cycle Consistency for Zero-Shot Sketch-based Image Retrieval](https://arxiv.org/pdf/1903.03372v1.pdf), [[code]](https://github.com/AnjanDutta/sem-pcyc)
 
 ### ICCV
 - [SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch and Color](https://openaccess.thecvf.com/content_ICCV_2019/papers/Jo_SC-FEGAN_Face_Editing_Generative_Adversarial_Network_With_Users_Sketch_and_ICCV_2019_paper.pdf)
@@ -76,9 +83,10 @@
 - [Sketch-a-Classifier: Sketch-Based Photo Classifier Generation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Sketch-a-Classifier_Sketch-Based_Photo_CVPR_2018_paper.pdf)，Conghui Hu, Da Li, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales
 - [SketchyGAN: Towards Diverse and Realistic Sketch to Image Synthesis](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_SketchyGAN_Towards_Diverse_CVPR_2018_paper.pdf)，Wengling Chen, James Hays
 - [Learning to Sketch With Shortcut Cycle Consistency](http://openaccess.thecvf.com/content_cvpr_2018/papers/Song_Learning_to_Sketch_CVPR_2018_paper.pdf)，Jifei Song, Kaiyue Pang, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales
-- [Zero-Shot Sketch-Image Hashing，Yuming Shen](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Zero-Shot_Sketch-Image_Hashing_CVPR_2018_paper.pdf), Li Liu, Fumin Shen, Ling Shao
+- [Zero-Shot Sketch-Image Hashing](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Zero-Shot_Sketch-Image_Hashing_CVPR_2018_paper.pdf), Li Liu, Fumin Shen, Ling Shao, [[code]](https://github.com/ymcidence/Zero-Shot-Sketch-Image-Hashing)
 - [Learning Deep Sketch Abstraction](http://openaccess.thecvf.com/content_cvpr_2018/papers/Muhammad_Learning_Deep_Sketch_CVPR_2018_paper.pdf)，Umar Riaz Muhammad, Yongxin Yang, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales
-- [SketchMate: Deep Hashing for Million-Scale Human Sketch Retrieval](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_SketchMate_Deep_Hashing_CVPR_2018_paper.pdf)，Peng Xu, Yongye Huang, Tongtong Yuan, Kaiyue Pang, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales, Zhanyu Ma, Jun Guo
+- [SketchMate: Deep Hashing for Million-Scale Human Sketch Retrieval](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_SketchMate_Deep_Hashing_CVPR_2018_paper.pdf)，Peng Xu, Yongye Huang, Tongtong Yuan, Kaiyue Pang, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales, Zhanyu Ma, Jun Guo, [[code]](https://github.com/tosmaster/imagevision)
+- [TextureGAN: Controlling Deep Image Synthesis with Texture Patches](https://arxiv.org/pdf/1706.02823v3.pdf), [[code]](https://github.com/janesjanes/Pytorch-TextureGAN)
 
 ### ECCV:
 - [Deep Cross-modality Adaptation via Semantics Preserving Adversarial Learning for Sketch-based 3D Shape Retrieval](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiaxin_Chen_Deep_Cross-modality_Adaptation_ECCV_2018_paper.pdf), Jiaxin Chen, Yi Fang
