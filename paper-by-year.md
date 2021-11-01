@@ -40,10 +40,12 @@
 - [Sketch-Guided Object Localization in Natural Images](https://arxiv.org/pdf/2008.06551v1.pdf), [[code]](https://github.com/IISCAditayTripathi/SketchGuidedLocalization)
 - [Sketching Image Gist: Human-Mimetic Hierarchical Scene Graph Generation](https://arxiv.org/pdf/2007.08760v1.pdf), [[code]](https://github.com/Kenneth-Wong/het-eccv20)
 
+### TVCG
+- [Sketch-r2cnn: An rnn-rasterization-cnn architecture for vector sketch recognition](https://scholars.cityu.edu.hk/files/73400281/Sketch_R2CNN_TVCG.pdf)
 
 ## 2019
 ### TOG
-- [Vectorization of Line Drawings via PolyVector Fields](https://dl.acm.org/doi/pdf/10.1145/3202661)
+- [Vectorization of Line Drawings via PolyVector Fields](https://dl.acm.org/doi/pdf/10.1145/3202661), [[code]](https://github.com/craigleili/Sketch-R2CNN)
 
 ### CVPR
 - [SketchGAN: Joint Sketch Completion and Recognition with Generative Adversarial Network](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_SketchGAN_Joint_Sketch_Completion_and_Recognition_With_Generative_Adversarial_Network_CVPR_2019_paper.pdf)
