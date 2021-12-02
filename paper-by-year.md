@@ -24,6 +24,11 @@
 - [Sketch Your Own GAN](https://arxiv.org/pdf/2108.02774.pdf), [[code]](https://github.com/peterwang512/GANSketching), [[project]](https://peterwang512.github.io/GANSketching/)
 - [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://arxiv.org/pdf/2104.00482.pdf)
 
+### IJCAI
+- [Domain-Smoothing Network for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/pdf/2106.11841.pdf), [[code]](https://github.com/haowang1992/DSN)
+- [Norm-guided Adaptive Visual Embedding for Zero-Shot Sketch-Based Image Retrieval](https://www.ijcai.org/proceedings/2021/0153.pdf)
+- [A Sketch-Transformer Network for Face Photo-Sketch Synthesis](https://www.ijcai.org/proceedings/2021/0187.pdf)
+
 ### ICLR
 - [CREATIVE SKETCH GENERATION](https://arxiv.org/pdf/2011.10039.pdf)
 
