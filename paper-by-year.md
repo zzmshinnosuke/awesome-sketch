@@ -61,7 +61,10 @@
 - [Semantically Tied Paired Cycle Consistency for Zero-Shot Sketch-based Image Retrieval](https://arxiv.org/pdf/1903.03372v1.pdf), [[code]](https://github.com/AnjanDutta/sem-pcyc)
 
 ### ICCV
-- [SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch and Color](https://openaccess.thecvf.com/content_ICCV_2019/papers/Jo_SC-FEGAN_Face_Editing_Generative_Adversarial_Network_With_Users_Sketch_and_ICCV_2019_paper.pdf)
+- [SC-FEGAN: Face Editing Generative Adversarial Network with User’s Sketch and Color](https://openaccess.thecvf.com/content_ICCV_2019/papers/Jo_SC-FEGAN_Face_Editing_Generative_Adversarial_Network_With_Users_Sketch_and_ICCV_2019_paper.pdf), [[code]](https://github.com/run-youngjoo/SC-FEGAN)
+- [Interactive Sketch & Fill: Multiclass Sketch-to-Image Translation](https://arxiv.org/pdf/1909.11081v2.pdf), [[code]](https://github.com/arnabgho/iSketchNFill)
+- [Scoot: A Perceptual Metric for Facial Sketches](https://arxiv.org/pdf/1908.08433v2.pdf), [[code]](https://github.com/DengPingFan/Scoot)
+- [Semantic-Aware Knowledge Preservation for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/pdf/1904.03208v3.pdf), [[code]](https://github.com/qliu24/SAKE)
 
 ### AAAI
 - [AI-Sketcher: A Deep Generative Model for Producing High-Quality Sketches](https://ojs.aaai.org/index.php/AAAI/article/download/4103/3981)
