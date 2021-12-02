@@ -18,8 +18,8 @@
 ### ICCV
 - [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/pdf/2108.11636.pdf)
 - [SketchAA: Abstract Representation for Abstract Sketches](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_SketchAA_Abstract_Representation_for_Abstract_Sketches_ICCV_2021_paper.pdf)
-- [Learning a Sketch Tensor Space for Image Inpainting of Man-made Scenes](https://arxiv.org/pdf/2103.15087.pdf)[[code]](https://github.com/ewrfcas/MST_inpainting) [[project]](https://ewrfcas.github.io/MST_inpainting/)
-- [Sketch Your Own GAN](https://arxiv.org/pdf/2108.02774.pdf)[[code]](https://github.com/peterwang512/GANSketching) [[project]](https://peterwang512.github.io/GANSketching/)
+- [Learning a Sketch Tensor Space for Image Inpainting of Man-made Scenes](https://arxiv.org/pdf/2103.15087.pdf), [[code]](https://github.com/ewrfcas/MST_inpainting), [[project]](https://ewrfcas.github.io/MST_inpainting/)
+- [Sketch Your Own GAN](https://arxiv.org/pdf/2108.02774.pdf), [[code]](https://github.com/peterwang512/GANSketching), [[project]](https://peterwang512.github.io/GANSketching/)
 - [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://arxiv.org/pdf/2104.00482.pdf)
 
 ### ICLR
