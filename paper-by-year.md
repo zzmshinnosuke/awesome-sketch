@@ -11,9 +11,11 @@
 
 ### CVPR
 - [StyleMeUp: Towards Style-Agnostic Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2021/papers/Sain_StyleMeUp_Towards_Style-Agnostic_Sketch-Based_Image_Retrieval_CVPR_2021_paper.pdf)
-- [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhunia_Vectorization_and_Rasterization_Self-Supervised_Learning_for_Sketch_and_Handwriting_CVPR_2021_paper.pdf)
-- [More Photos Are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhunia_More_Photos_Are_All_You_Need_Semi-Supervised_Learning_for_Fine-Grained_CVPR_2021_paper.pdf)
-- [Sketch, Ground, and Refine: Top-Down Dense Video Captioning](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Sketch_Ground_and_Refine_Top-Down_Dense_Video_Captioning_CVPR_2021_paper.pdf)
+- [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhunia_Vectorization_and_Rasterization_Self-Supervised_Learning_for_Sketch_and_Handwriting_CVPR_2021_paper.pdf), [[code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch)
+- [More Photos Are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhunia_More_Photos_Are_All_You_Need_Semi-Supervised_Learning_for_Fine-Grained_CVPR_2021_paper.pdf), [[code]](https://github.com/AyanKumarBhunia/semisupervised-FGSBIR)
+- [Sketch, Ground, and Refine: Top-Down Dense Video Captioning](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Sketch_Ground_and_Refine_Top-Down_Dense_Video_Captioning_CVPR_2021_paper.pdf), [[code]](https://github.com/bearcatt/SGR)
+- [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/pdf/2105.06663.pdf)
+- [Cloud2Curve: Generation and Vectorization of Parametric Sketches](https://arxiv.org/pdf/2103.15536.pdf)
 
 ### ICCV
 - [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/pdf/2108.11636.pdf)
