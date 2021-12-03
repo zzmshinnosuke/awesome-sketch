@@ -1,6 +1,7 @@
 ## Table of Contents
 * [Sketch Semantic Segmentation](#Sketch-Semantic-Segmentation)
 * [Sketch-Based Image Retrival](#SBIR)
+* [Sketch-Based Video Retrival](#SBVR)
 
 ## Sketch-Semantic-Segmentation
 - [SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3450284), TOG, 2021, [[code]](https://github.com/sYeaLumin/SketchGNN)
@@ -13,7 +14,7 @@
 
 - [Multi-column point-CNN for sketch segmentation](https://www.sciencedirect.com/science/article/pii/S0925231220300588?casa_token=JpR6RFe8C3gAAAAA:lH5k_coeSz8nvPfn9casK7aEyI-jJqYSOlrkwFy_Unxk8c8pUl3-hLEpQ_KcCUzt_-UtMsIY8tp1), Neurocomputing, 2020
 
-- [Toward Deep Universal Sketch Perceptual Grouper](https://homepages.inf.ed.ac.uk/thospeda/papers/li2019group.pdf), TIP,2019
+- [Toward Deep Universal Sketch Perceptual Grouper](https://homepages.inf.ed.ac.uk/thospeda/papers/li2019group.pdf), TIP, 2019
 
 - [SketchSegNet+: An End-to-End Learning of RNN for Multi-Class Sketch Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8766108), IEEE Access, 2019
 
@@ -26,6 +27,8 @@
 - [Fast Sketch Segmentation and Labeling with Deep Learning](https://arxiv.org/pdf/1807.11847), CGA, 2018
 
 - [Universal Sketch Perceptual Grouping](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ke_LI_Universal_Sketch_Perceptual_ECCV_2018_paper.pdf), ECCV, 2018, [[code]](https://github.com/KeLi-SketchX/Universal-sketch-perceptual-grouping)
+
+- [SketchParse : Towards Rich Descriptions for Poorly Drawn Sketches using Multi-Task Hierarchical Deep Networks](https://dl.acm.org/doi/pdf/10.1145/3123266.3123270), ACM MM, 2017, [[code]](https://github.com/val-iisc/sketch-parse)
 
 - [Making Better Use of Edges via Perceptual Grouping](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Qi_Making_Better_Use_2015_CVPR_paper.pdf), CRPR, 2015
 
