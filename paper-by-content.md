@@ -18,7 +18,7 @@
 
 - [SketchSegNet+: An End-to-End Learning of RNN for Multi-Class Sketch Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8766108), IEEE Access, 2019
 
-- [Sketchsegnet: A rnn model for labeling sketch strokes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8516988), MLSP, 2018
+- [Sketchsegnet: A rnn model for labeling sketch strokes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8516988), MLSP, 2018 (same as SketchSegNet+)
 
 - [Deep Stroke-Based Sketched Symbol Reconstruction and Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8854308), CGA, 2019
 
