@@ -18,6 +18,8 @@
 
 - [SketchSegNet+: An End-to-End Learning of RNN for Multi-Class Sketch Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8766108), IEEE Access, 2019
 
+- [Sketchsegnet: A rnn model for labeling sketch strokes](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8516988), MLSP, 2018
+
 - [Deep Stroke-Based Sketched Symbol Reconstruction and Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8854308), CGA, 2019
 
 - [Bitmap or Vector? A study on sketch representations for deep stroke segmentation](https://hal.inria.fr/hal-02922043/document), JFIJ, 2019
