@@ -11,6 +11,8 @@
 
 - [2D freehand sketch labeling using CNN and CRF](https://eds.s.ebscohost.com/eds/pdfviewer/pdfviewer?vid=0&sid=632c28ab-1e2b-44bf-9e6d-1facf7a12ed8%40redis), MTA, 2020
 
+- [Multi-column point-CNN for sketch segmentation](https://www.sciencedirect.com/science/article/pii/S0925231220300588?casa_token=JpR6RFe8C3gAAAAA:lH5k_coeSz8nvPfn9casK7aEyI-jJqYSOlrkwFy_Unxk8c8pUl3-hLEpQ_KcCUzt_-UtMsIY8tp1), Neurocomputing, 2020
+
 - [Toward Deep Universal Sketch Perceptual Grouper](https://homepages.inf.ed.ac.uk/thospeda/papers/li2019group.pdf), TIP,2019
 
 - [SketchSegNet+: An End-to-End Learning of RNN for Multi-Class Sketch Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8766108), IEEE Access, 2019
