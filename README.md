@@ -15,7 +15,7 @@
         <td><strong>Dataset</strong></td>
         <td><strong>Vector</strong></td>
         <td><strong>Paired</strong></td>
-        <td><strong>Source</strong></td> 
+        <td><strong>Paper</strong></td> 
         <td><strong>Scale</strong></td> 
         <td><strong>Remark</strong></td> 
     </tr>
@@ -49,7 +49,7 @@
         <td><a href="http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/">TU-Berlin</a></td>
         <td>&check;(svg)</td>
         <td>&cross;</td>
-        <td>SIGGRAPH 2012</td>
+        <td><a href="http://cybertron.cg.tu-berlin.de/eitz/pdf/2012_siggraph_classifysketch.pdf">SIGGRAPH 2012</a></td>
         <td>250 categories; 80 sketch/cat; 20k sketches</td>
         <td>第一个大规模的草图数据集、比较形象</td>
     </tr>
@@ -57,23 +57,23 @@
         <td><a href="http://sketchy.eye.gatech.edu/">Sketchy</a></td>
         <td>&check;(svg)</td>
         <td>&check;</td>
-        <td>SIGGRAPH 2016</td>
+        <td><a href="https://dl.acm.org/doi/pdf/10.1145/2897824.2925954">SIGGRAPH 2016</a></td>
         <td>125 categories; 75471 sketches; 12500 images</td>
         <td>每张图片对应5张草图</td>
     </tr>
     <tr>
-        <td><a href="https://openreview.net/forum?id=Hy6GHpkCW">Quickdraw</a></td>
+        <td><a href="https://quickdraw.withgoogle.com/data">Quickdraw</a></td>
         <td>&check;(5-tuple)</td>
         <td>&cross;</td>
-        <td>ICLR 2018</td>
+        <td><a href="https://openreview.net/forum?id=Hy6GHpkCW">ICLR 2018</a></td>
         <td>345 categories; 10k/cat; 50M sketches</td>
         <td>数据量大、抽象性高、噪音多</td>
     </tr>
     <tr>
-        <td><a href="https://www.eecs.qmul.ac.uk/~qian/Project_cvpr16.html">QMUL-Shoe-V2</a></td>
+        <td><a href="http://sketchx.eecs.qmul.ac.uk/downloads/">QMUL-Shoe-V2</a></td>
         <td>&cross;(mat)</td>
         <td>&cross;</td>
-        <td>CVPR 2018</td>
+        <td><a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/Yu_Sketch_Me_That_CVPR_2016_paper.pdf">CVPR 2016</a></td>
         <td>2 categries; 700 sketches</td>
         <td>包含两类物体椅子和鞋，跟图片对应的准确率更高</td>
     </tr>
