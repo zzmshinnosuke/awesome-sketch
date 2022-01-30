@@ -1,5 +1,9 @@
 # sketch papers by year
 
+##2022
+### TIP
+- [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584)
+
 ## 2021
 ### siggraph
 - [Tracing Versus Freehand for Evaluating Computer-Generated Drawings](https://graphics.cs.yale.edu/sites/default/files/tracing-vs-freehand_0.pdf), WANG, ZEYU, SHERRY QIU, NICOLE FENG, HOLLY RUSHMEIER, LEONARD MCMILLAN, and JULIE DORSEY(Yale University), [[source code]](https://github.com/zachzeyuwang/tracing-vs-freehand), [[dataset]](http://tracer.cs.yale.edu:8000/tracing-vs-freehand/data/) 
@@ -23,6 +27,7 @@
 - [Learning a Sketch Tensor Space for Image Inpainting of Man-made Scenes](https://arxiv.org/pdf/2103.15087.pdf), [[code]](https://github.com/ewrfcas/MST_inpainting), [[project]](https://ewrfcas.github.io/MST_inpainting/)
 - [Sketch Your Own GAN](https://arxiv.org/pdf/2108.02774.pdf), [[code]](https://github.com/peterwang512/GANSketching), [[project]](https://peterwang512.github.io/GANSketching/)
 - [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://arxiv.org/pdf/2104.00482.pdf)
+- [Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs](https://openaccess.thecvf.com/content/ICCV2021/papers/Dhamo_Graph-to-3D_End-to-End_Generation_and_Manipulation_of_3D_Scenes_Using_Scene_ICCV_2021_paper.pdf)
 
 ### IJCAI
 - [Domain-Smoothing Network for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/pdf/2106.11841.pdf), [[code]](https://github.com/haowang1992/DSN)

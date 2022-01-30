@@ -4,6 +4,8 @@
 * [Sketch-Based Video Retrival](#SBVR)
 
 ## Sketch-Semantic-Segmentation
+- [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584), TIP, 2021
+
 - [SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3450284), TOG, 2021, [[code]](https://github.com/sYeaLumin/SketchGNN)
 
 - [Instance GNN: A Learning Framework for Joint Symbol Segmentation and Recognition in Online Handwritten Diagrams](http://www.nlpr.ia.ac.cn/databases/CASIA-OHFC/flowchart_recognition_TMM_2021-2nd%20submission.pdf)  , Multimedia, 2021, [dataset](http://www.nlpr.ia.ac.cn/databases/CASIA-OHFC/)
