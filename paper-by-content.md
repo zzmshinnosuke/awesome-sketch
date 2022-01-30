@@ -4,7 +4,7 @@
 * [Sketch-Based Video Retrival](#SBVR)
 
 ## Sketch-Semantic-Segmentation
-- [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584), TIP, 2021
+- [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584), TIP, 2022
 
 - [SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3450284), TOG, 2021, [[code]](https://github.com/sYeaLumin/SketchGNN)
 
