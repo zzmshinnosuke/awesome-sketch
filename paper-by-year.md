@@ -1,6 +1,6 @@
 # sketch papers by year
 
-##2022
+## 2022
 ### TIP
 - [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584)
 
