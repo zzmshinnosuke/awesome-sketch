@@ -2,6 +2,7 @@
 * [Sketch Semantic Segmentation](#Sketch-Semantic-Segmentation)
 * [Sketch-Based Image Retrival](#SBIR)
 * [Sketch-Based Video Retrival](#SBVR)
+* [Image2Sketch](#I2S)
 
 ## Sketch-Semantic-Segmentation
 - [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584), TIP, 2022
@@ -45,4 +46,9 @@
 
 ## SBVR
 - [Interactive Video Asset Retrieval using Sketched Queries](https://dl.acm.org/doi/pdf/10.1145/2668904.2668940), CVMP, 2014  ,[[code]](https://github.com/StTu/GF-HOG)
+
+## I2S
+- [Photo-Sketching: Inferring Contour Drawings from Images](https://arxiv.org/pdf/1901.00542.pdf), WACV, 2019
+- [I2S2: Image-to-Scene Sketch Translation Using Conditional Input and Adversarial Networks](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/1pP3CFxu18c/pdf), ICTAI, 2020
+
 
