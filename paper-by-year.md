@@ -127,3 +127,5 @@
 ## 2018
 ### MM
 - [SketchParse: Towards Rich Descriptions For Poorly Drawn Sketches Using Multi-Task Deep Networks](https://dl.acm.org/doi/pdf/10.1145/3123266.3123270), [[code]](https://github.com/val-iisc/sketch-parse)
+### ICLR
+- [A Neural Representation of Sketch Drawings](https://arxiv.org/pdf/1704.03477.pdf)
