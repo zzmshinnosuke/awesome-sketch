@@ -62,7 +62,7 @@
 - [Sketching Image Gist: Human-Mimetic Hierarchical Scene Graph Generation](https://arxiv.org/pdf/2007.08760v1.pdf), [[code]](https://github.com/Kenneth-Wong/het-eccv20)
 
 ### TVCG
-- [Sketch-r2cnn: An rnn-rasterization-cnn architecture for vector sketch recognition](https://scholars.cityu.edu.hk/files/73400281/Sketch_R2CNN_TVCG.pdf)
+- [Sketch-r2cnn: An rnn-rasterization-cnn architecture for vector sketch recognition](https://scholars.cityu.edu.hk/files/73400281/Sketch_R2CNN_TVCG.pdf), [[code]](https://github.com/craigleili/Sketch-R2CNN)
 
 ## 2019
 ### TOG
