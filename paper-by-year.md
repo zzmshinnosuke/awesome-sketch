@@ -26,8 +26,9 @@
 - [SketchAA: Abstract Representation for Abstract Sketches](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_SketchAA_Abstract_Representation_for_Abstract_Sketches_ICCV_2021_paper.pdf)
 - [Learning a Sketch Tensor Space for Image Inpainting of Man-made Scenes](https://arxiv.org/pdf/2103.15087.pdf), [[code]](https://github.com/ewrfcas/MST_inpainting), [[project]](https://ewrfcas.github.io/MST_inpainting/)
 - [Sketch Your Own GAN](https://arxiv.org/pdf/2108.02774.pdf), [[code]](https://github.com/peterwang512/GANSketching), [[project]](https://peterwang512.github.io/GANSketching/)
-- [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://arxiv.org/pdf/2104.00482.pdf)
+- [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://arxiv.org/pdf/2104.00482.pdf), [[code]](https://github.com/cvlab-epfl/sketch2mesh)
 - [Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs](https://openaccess.thecvf.com/content/ICCV2021/papers/Dhamo_Graph-to-3D_End-to-End_Generation_and_Manipulation_of_3D_Scenes_Using_Scene_ICCV_2021_paper.pdf), [[dode]](https://github.com/he-dhamo/graphto3d)
+- [Scene Designer: a Unified Model for Scene Search and Synthesis from Sketch](https://openaccess.thecvf.com/content/ICCV2021W/SHE/papers/Ribeiro_Scene_Designer_A_Unified_Model_for_Scene_Search_and_Synthesis_ICCVW_2021_paper.pdf), [[code]](https://github.com/leosampaio/scene-designer)
 
 ### IJCAI
 - [Domain-Smoothing Network for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/pdf/2106.11841.pdf), [[code]](https://github.com/haowang1992/DSN)
