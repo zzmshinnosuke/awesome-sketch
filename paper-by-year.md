@@ -14,11 +14,11 @@
 - [SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3450284), [[source code]](https://github.com/sYeaLumin/SketchGNN)
 
 ### CVPR
-- [StyleMeUp: Towards Style-Agnostic Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2021/papers/Sain_StyleMeUp_Towards_Style-Agnostic_Sketch-Based_Image_Retrieval_CVPR_2021_paper.pdf)
+- [StyleMeUp: Towards Style-Agnostic Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2021/papers/Sain_StyleMeUp_Towards_Style-Agnostic_Sketch-Based_Image_Retrieval_CVPR_2021_paper.pdf), [[code]](https://github.com/aneeshan95/StyleMeUp)
 - [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhunia_Vectorization_and_Rasterization_Self-Supervised_Learning_for_Sketch_and_Handwriting_CVPR_2021_paper.pdf), [[code]](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch)
 - [More Photos Are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhunia_More_Photos_Are_All_You_Need_Semi-Supervised_Learning_for_Fine-Grained_CVPR_2021_paper.pdf), [[code]](https://github.com/AyanKumarBhunia/semisupervised-FGSBIR)
 - [Sketch, Ground, and Refine: Top-Down Dense Video Captioning](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Sketch_Ground_and_Refine_Top-Down_Dense_Video_Captioning_CVPR_2021_paper.pdf), [[code]](https://github.com/bearcatt/SGR)
-- [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/pdf/2105.06663.pdf)
+- [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/pdf/2105.06663.pdf), [[code]](https://github.com/bennyguo/sketch2model)
 - [Cloud2Curve: Generation and Vectorization of Parametric Sketches](https://arxiv.org/pdf/2103.15536.pdf)
 
 ### ICCV
@@ -27,7 +27,7 @@
 - [Learning a Sketch Tensor Space for Image Inpainting of Man-made Scenes](https://arxiv.org/pdf/2103.15087.pdf), [[code]](https://github.com/ewrfcas/MST_inpainting), [[project]](https://ewrfcas.github.io/MST_inpainting/)
 - [Sketch Your Own GAN](https://arxiv.org/pdf/2108.02774.pdf), [[code]](https://github.com/peterwang512/GANSketching), [[project]](https://peterwang512.github.io/GANSketching/)
 - [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://arxiv.org/pdf/2104.00482.pdf)
-- [Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs](https://openaccess.thecvf.com/content/ICCV2021/papers/Dhamo_Graph-to-3D_End-to-End_Generation_and_Manipulation_of_3D_Scenes_Using_Scene_ICCV_2021_paper.pdf)
+- [Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs](https://openaccess.thecvf.com/content/ICCV2021/papers/Dhamo_Graph-to-3D_End-to-End_Generation_and_Manipulation_of_3D_Scenes_Using_Scene_ICCV_2021_paper.pdf), [[dode]](https://github.com/he-dhamo/graphto3d)
 
 ### IJCAI
 - [Domain-Smoothing Network for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/pdf/2106.11841.pdf), [[code]](https://github.com/haowang1992/DSN)
