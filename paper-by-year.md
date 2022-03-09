@@ -2,7 +2,7 @@
 
 ## 2022
 ### TIP
-- [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584)
+- [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584), [[code]](https://github.com/drcege/Local-Detail-Perception)
 
 ## 2021
 ### siggraph
