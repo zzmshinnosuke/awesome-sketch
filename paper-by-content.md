@@ -11,7 +11,7 @@
 
 - [Instance GNN: A Learning Framework for Joint Symbol Segmentation and Recognition in Online Handwritten Diagrams](http://www.nlpr.ia.ac.cn/databases/CASIA-OHFC/flowchart_recognition_TMM_2021-2nd%20submission.pdf)  , Multimedia, 2021, [dataset](http://www.nlpr.ia.ac.cn/databases/CASIA-OHFC/)
 
-- [FloorPlanCAD: A Large-Scale CAD Drawing Dataset for Panoptic Symbol Spotting](https://arxiv.org/pdf/2105.07147.pdf), ICCV, 2021
+- [FloorPlanCAD: A Large-Scale CAD Drawing Dataset for Panoptic Symbol Spotting](https://arxiv.org/pdf/2105.07147.pdf), ICCV, 2021, [[dataset]](https://github.com/floorplancad/floorplancad.github.io)
 
 - [2D freehand sketch labeling using CNN and CRF](https://eds.s.ebscohost.com/eds/pdfviewer/pdfviewer?vid=0&sid=632c28ab-1e2b-44bf-9e6d-1facf7a12ed8%40redis), MTA, 2020
 
