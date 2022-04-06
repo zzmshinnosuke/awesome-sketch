@@ -47,9 +47,12 @@
 
 
 ## SBIR
+- [Partially Does It: Towards Scene-Level FG-SBIR with Partial Input](https://arxiv.org/pdf/2203.14804/pdf), CVPR, 2022
+- [Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://arxiv.org/pdf/2203.14817/pdf), CVPR, 2022
+- [Sketch3T: Test-Time Training for Zero-Shot SBIR](https://arxiv.org/pdf/2203.14691.pdf), CVPR, 2022
 
 ## SBVR
-- [Interactive Video Asset Retrieval using Sketched Queries](https://dl.acm.org/doi/pdf/10.1145/2668904.2668940), CVMP, 2014  ,[[code]](https://github.com/StTu/GF-HOG)
+- [Interactive Video Asset Retrieval using Sketched Queries](https://dl.acm.org/doi/pdf/10.1145/2668904.2668940), CVMP, 2014, [[code]](https://github.com/StTu/GF-HOG)
 
 ## I2S
 - [Photo-Sketching: Inferring Contour Drawings from Images](https://arxiv.org/pdf/1901.00542.pdf), WACV, 2019
