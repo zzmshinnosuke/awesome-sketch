@@ -6,7 +6,9 @@
 [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis)
 
 ## Table of Contents
-* [Sketch Dataset](#Dataset)
+* [Sketch Datasets](#Datasets)
+* [Sketch Papers by Year](https://github.com/zzmshinnosuke/awesome-sketch/blob/master/paper-by-year.md)
+* [Sketch Papers by content](https://github.com/zzmshinnosuke/awesome-sketch/blob/master/paper-by-content.md)
 
 ## Datasets
 <table>
