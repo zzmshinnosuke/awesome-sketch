@@ -1,12 +1,12 @@
 ## Table of Contents
-* [Sketch Review](#Sketch-Review)
+* [Sketch Survey](#Sketch-Survey)
 * [Sketch Semantic Segmentation](#Sketch-Semantic-Segmentation)
 * [Sketch-Based Image Retrival](#SBIR)
 * [Sketch-Based Video Retrival](#SBVR)
 * [Image2Sketch](#I2S)
 * [3D Sketch](#3D-Sketch)
 
-## Sketch-Review
+## Sketch-Survey
 - [Deep Learning for Free-Hand Sketch: A Survey](https://www.pure.ed.ac.uk/ws/portalfiles/portal/253410048/DeepLearning_XU_DOA27012022_AFV.pdf), PAMI, 2022
 
 ## Sketch-Semantic-Segmentation
