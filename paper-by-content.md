@@ -4,6 +4,7 @@
 * [Sketch-Based Image Retrival](#SBIR)
 * [Sketch-Based Video Retrival](#SBVR)
 * [Image2Sketch](#I2S)
+* [3D Sketch](#3D-Sketch)
 
 ## Sketch-Review
 - [Deep Learning for Free-Hand Sketch: A Survey](https://www.pure.ed.ac.uk/ws/portalfiles/portal/253410048/DeepLearning_XU_DOA27012022_AFV.pdf), PAMI, 2022
@@ -58,4 +59,5 @@
 - [Photo-Sketching: Inferring Contour Drawings from Images](https://arxiv.org/pdf/1901.00542.pdf), WACV, 2019
 - [I2S2: Image-to-Scene Sketch Translation Using Conditional Input and Adversarial Networks](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/1pP3CFxu18c/pdf), ICTAI, 2020
 
-
+## 3D-Sketch
+- [Sketch2Scene: Sketch-based Co-retrieval and Co-placement of 3D Model](https://cg.cs.tsinghua.edu.cn/sketch2scene/sketch2scene_paper.pdf), TOG, 2013

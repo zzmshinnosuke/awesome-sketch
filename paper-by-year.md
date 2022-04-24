@@ -139,3 +139,7 @@
 ## 2017
 ### CVPR
 - [Scribbler: Controlling Deep Image Synthesis with Sketch and Color](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sangkloy_Scribbler_Controlling_Deep_CVPR_2017_paper.pdf)
+
+## 2013
+### TOG
+- [Sketch2Scene: Sketch-based co-retrieval and co-placement of 3D models](https://cg.cs.tsinghua.edu.cn/sketch2scene/sketch2scene_paper.pdf)
