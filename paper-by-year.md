@@ -15,6 +15,9 @@
 ### PAMI
 - [Deep Learning for Free-Hand Sketch: A Survey](https://www.pure.ed.ac.uk/ws/portalfiles/portal/253410048/DeepLearning_XU_DOA27012022_AFV.pdf)
 
+### CVPR
+- [Leveraging Unlabeled Data for Sketch-based Understanding](https://arxiv.org/pdf/2204.12522.pdf)
+
 ## 2021
 ### siggraph
 - [Tracing Versus Freehand for Evaluating Computer-Generated Drawings](https://graphics.cs.yale.edu/sites/default/files/tracing-vs-freehand_0.pdf), WANG, ZEYU, SHERRY QIU, NICOLE FENG, HOLLY RUSHMEIER, LEONARD MCMILLAN, and JULIE DORSEY(Yale University), [[source code]](https://github.com/zachzeyuwang/tracing-vs-freehand), [[dataset]](http://tracer.cs.yale.edu:8000/tracing-vs-freehand/data/) 
