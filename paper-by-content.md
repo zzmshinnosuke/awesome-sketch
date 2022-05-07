@@ -1,5 +1,6 @@
 ## Table of Contents
 * [Sketch Survey](#Sketch-Survey)
+* [Sketch Recognition](#SR)
 * [Sketch Semantic Segmentation](#Sketch-Semantic-Segmentation)
 * [Sketch-Based Image Retrival](#SBIR)
 * [Sketch-Based Video Retrival](#SBVR)
@@ -8,6 +9,9 @@
 
 ## Sketch-Survey
 - [Deep Learning for Free-Hand Sketch: A Survey](https://www.pure.ed.ac.uk/ws/portalfiles/portal/253410048/DeepLearning_XU_DOA27012022_AFV.pdf), PAMI, 2022
+
+## SR
+- [Multi-Graph Transformer for Free-Hand Sketch Recognition](https://ieeexplore.ieee.org/abstract/document/9397867), TNNLS, 2021, [[code]](https://github.com/PengBoXiangShang/multigraph_transformer)
 
 ## Sketch-Semantic-Segmentation
 - [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584), TIP, 2022
