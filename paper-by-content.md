@@ -1,7 +1,7 @@
 ## Table of Contents
 * [Sketch Survey](#Sketch-Survey)
 * [Sketch Recognition](#SR)
-* [Sketch Semantic Segmentation](#Sketch-Semantic-Segmentation)
+* [Sketch Semantic Segmentation](#SSS)
 * [Sketch-Based Image Retrival](#SBIR)
 * [Sketch-Based Video Retrival](#SBVR)
 * [Image2Sketch](#I2S)
@@ -13,7 +13,7 @@
 ## SR
 - [Multi-Graph Transformer for Free-Hand Sketch Recognition](https://ieeexplore.ieee.org/abstract/document/9397867), TNNLS, 2021, [[code]](https://github.com/PengBoXiangShang/multigraph_transformer)
 
-## Sketch-Semantic-Segmentation
+## SSS
 - [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584), TIP, 2022
 
 - [SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3450284), TOG, 2021, [[code]](https://github.com/sYeaLumin/SketchGNN)
