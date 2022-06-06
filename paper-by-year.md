@@ -12,6 +12,8 @@
 ### TIP
 - [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584), [[code]](https://github.com/drcege/Local-Detail-Perception)
 
+- [SceneSketcher-v2: Fine-Grained Scene-LevelSketch-Based Image Retrieval Using Adaptive GCNs](https://ieeexplore.ieee.org/abstract/document/9779565)
+
 ### PAMI
 - [Deep Learning for Free-Hand Sketch: A Survey](https://www.pure.ed.ac.uk/ws/portalfiles/portal/253410048/DeepLearning_XU_DOA27012022_AFV.pdf)
 
