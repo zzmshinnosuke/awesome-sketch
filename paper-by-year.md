@@ -116,7 +116,8 @@
 ### ICIP
 - [Deep zero-shot learning for scene sketch](https://arxiv.org/pdf/1905.04510)
 
-
+### TMM
+- [SketchHelper: Real-Time Stroke Guidance for Freehand Sketch Retrieval](https://ieeexplore.ieee.org/document/8607060), [[code]](https://github.com/kookmin-hci/sketch_helper)
 
 ## 2018
 ### siggraph：
