@@ -10,6 +10,7 @@
 
 ## 2022
 ### TIP
+- [One Sketch for All: One-Shot Personalized Sketch Segmentation](https://ieeexplore.ieee.org/abstract/document/9739995)
 - [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584), [[code]](https://github.com/drcege/Local-Detail-Perception)
 
 - [SceneSketcher-v2: Fine-Grained Scene-LevelSketch-Based Image Retrieval Using Adaptive GCNs](https://ieeexplore.ieee.org/abstract/document/9779565)

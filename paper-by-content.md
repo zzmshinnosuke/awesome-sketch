@@ -14,6 +14,8 @@
 - [Multi-Graph Transformer for Free-Hand Sketch Recognition](https://ieeexplore.ieee.org/abstract/document/9397867), TNNLS, 2021, [[code]](https://github.com/PengBoXiangShang/multigraph_transformer)
 
 ## SSS
+- [One Sketch for All: One-Shot Personalized Sketch Segmentation](https://ieeexplore.ieee.org/abstract/document/9739995), TIP, 2022
+
 - [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584), TIP, 2022
 
 - [SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3450284), TOG, 2021, [[code]](https://github.com/sYeaLumin/SketchGNN)
