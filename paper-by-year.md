@@ -26,11 +26,16 @@
 - [Symmetry-driven 3D Reconstruction From Concept Sketches]()
 
 ### [CVPR](https://openaccess.thecvf.com/CVPR2022)
-- [Leveraging Unlabeled Data for Sketch-based Understanding](https://arxiv.org/pdf/2204.12522.pdf)
 - [SketchEdit: Mask-Free Local Image Manipulation With Partial Sketches](https://openaccess.thecvf.com/content/CVPR2022/papers/Zeng_SketchEdit_Mask-Free_Local_Image_Manipulation_With_Partial_Sketches_CVPR_2022_paper.pdf)
 - [Sketch3T: Test-Time Training for Zero-Shot SBIR](https://openaccess.thecvf.com/content/CVPR2022/papers/Sain_Sketch3T_Test-Time_Training_for_Zero-Shot_SBIR_CVPR_2022_paper.pdf)
 - [Sketching Without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2022/papers/Bhunia_Sketching_Without_Worrying_Noise-Tolerant_Sketch-Based_Image_Retrieval_CVPR_2022_paper.pdf)
 - [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://openaccess.thecvf.com/content/CVPR2022/papers/Bhunia_Doodle_It_Yourself_Class_Incremental_Learning_by_Drawing_a_Few_CVPR_2022_paper.pdf)
+- [Finding Badly Drawn Bunnies](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf)
+- (workshop)[SSR-GNNs: Stroke-based Sketch Representation with Graph Neural Networks](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Cheng_SSR-GNNs_Stroke-Based_Sketch_Representation_With_Graph_Neural_Networks_CVPRW_2022_paper.pdf)
+- (workshop)[Leveraging Unlabeled Data for Sketch-Based Understanding](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Morales_Leveraging_Unlabeled_Data_for_Sketch-Based_Understanding_CVPRW_2022_paper.pdf)
+- (workshop)[Constellations: A Novel Dataset for Studying Iterative Inference in Humans and AI](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Khajuria_Constellations_A_Novel_Dataset_for_Studying_Iterative_Inference_in_Humans_CVPRW_2022_paper.pdf)
+- (workshop)[Signature Detection, Restoration, and Verification: A Novel Chinese Document Signature Forgery Detection Benchmark](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Yan_Signature_Detection_Restoration_and_Verification_A_Novel_Chinese_Document_Signature_CVPRW_2022_paper.pdf)
+- (workshop)[The Role of Shape for Domain Generalization on Sparsely-Textured Images](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Nazari_The_Role_of_Shape_for_Domain_Generalization_on_Sparsely-Textured_Images_CVPRW_2022_paper.pdf)
 
 
 ## 2021
