@@ -31,11 +31,11 @@
 - [Sketching Without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2022/papers/Bhunia_Sketching_Without_Worrying_Noise-Tolerant_Sketch-Based_Image_Retrieval_CVPR_2022_paper.pdf)
 - [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://openaccess.thecvf.com/content/CVPR2022/papers/Bhunia_Doodle_It_Yourself_Class_Incremental_Learning_by_Drawing_a_Few_CVPR_2022_paper.pdf)
 - [Finding Badly Drawn Bunnies](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf)
-- (workshop)[SSR-GNNs: Stroke-based Sketch Representation with Graph Neural Networks](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Cheng_SSR-GNNs_Stroke-Based_Sketch_Representation_With_Graph_Neural_Networks_CVPRW_2022_paper.pdf)
-- (workshop)[Leveraging Unlabeled Data for Sketch-Based Understanding](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Morales_Leveraging_Unlabeled_Data_for_Sketch-Based_Understanding_CVPRW_2022_paper.pdf)
-- (workshop)[Constellations: A Novel Dataset for Studying Iterative Inference in Humans and AI](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Khajuria_Constellations_A_Novel_Dataset_for_Studying_Iterative_Inference_in_Humans_CVPRW_2022_paper.pdf)
-- (workshop)[Signature Detection, Restoration, and Verification: A Novel Chinese Document Signature Forgery Detection Benchmark](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Yan_Signature_Detection_Restoration_and_Verification_A_Novel_Chinese_Document_Signature_CVPRW_2022_paper.pdf)
-- (workshop)[The Role of Shape for Domain Generalization on Sparsely-Textured Images](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Nazari_The_Role_of_Shape_for_Domain_Generalization_on_Sparsely-Textured_Images_CVPRW_2022_paper.pdf)
+- (ws)[SSR-GNNs: Stroke-based Sketch Representation with Graph Neural Networks](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Cheng_SSR-GNNs_Stroke-Based_Sketch_Representation_With_Graph_Neural_Networks_CVPRW_2022_paper.pdf)
+- (ws)[Leveraging Unlabeled Data for Sketch-Based Understanding](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Morales_Leveraging_Unlabeled_Data_for_Sketch-Based_Understanding_CVPRW_2022_paper.pdf)
+- (ws)[Constellations: A Novel Dataset for Studying Iterative Inference in Humans and AI](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Khajuria_Constellations_A_Novel_Dataset_for_Studying_Iterative_Inference_in_Humans_CVPRW_2022_paper.pdf)
+- (ws)[Signature Detection, Restoration, and Verification: A Novel Chinese Document Signature Forgery Detection Benchmark](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Yan_Signature_Detection_Restoration_and_Verification_A_Novel_Chinese_Document_Signature_CVPRW_2022_paper.pdf)
+- (ws)[The Role of Shape for Domain Generalization on Sparsely-Textured Images](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Nazari_The_Role_of_Shape_for_Domain_Generalization_on_Sparsely-Textured_Images_CVPRW_2022_paper.pdf)
 
 
 ## 2021
@@ -56,13 +56,15 @@
 - [Cloud2Curve: Generation and Vectorization of Parametric Sketches](https://arxiv.org/pdf/2103.15536.pdf)
 
 ### ICCV
-- [SketchLattice: Latticed Representation for Sketch Manipulation](https://arxiv.org/pdf/2108.11636.pdf)
+- [SketchLattice: Latticed Representation for Sketch Manipulation](https://openaccess.thecvf.com/content/ICCV2021/papers/Qi_SketchLattice_Latticed_Representation_for_Sketch_Manipulation_ICCV_2021_paper.pdf)
 - [SketchAA: Abstract Representation for Abstract Sketches](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_SketchAA_Abstract_Representation_for_Abstract_Sketches_ICCV_2021_paper.pdf)
-- [Learning a Sketch Tensor Space for Image Inpainting of Man-made Scenes](https://arxiv.org/pdf/2103.15087.pdf), [[code]](https://github.com/ewrfcas/MST_inpainting), [[project]](https://ewrfcas.github.io/MST_inpainting/)
+- [Learning a Sketch Tensor Space for Image Inpainting of Man-made Scenes](https://openaccess.thecvf.com/content/ICCV2021/papers/Cao_Learning_a_Sketch_Tensor_Space_for_Image_Inpainting_of_Man-Made_ICCV_2021_paper.pdf), [[code]](https://github.com/ewrfcas/MST_inpainting), [[project]](https://ewrfcas.github.io/MST_inpainting/)
 - [Sketch Your Own GAN](https://arxiv.org/pdf/2108.02774.pdf), [[code]](https://github.com/peterwang512/GANSketching), [[project]](https://peterwang512.github.io/GANSketching/)
-- [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://arxiv.org/pdf/2104.00482.pdf), [[code]](https://github.com/cvlab-epfl/sketch2mesh)
-- [Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs](https://openaccess.thecvf.com/content/ICCV2021/papers/Dhamo_Graph-to-3D_End-to-End_Generation_and_Manipulation_of_3D_Scenes_Using_Scene_ICCV_2021_paper.pdf), [[dode]](https://github.com/he-dhamo/graphto3d)
-- [Scene Designer: a Unified Model for Scene Search and Synthesis from Sketch](https://openaccess.thecvf.com/content/ICCV2021W/SHE/papers/Ribeiro_Scene_Designer_A_Unified_Model_for_Scene_Search_and_Synthesis_ICCVW_2021_paper.pdf), [[code]](https://github.com/leosampaio/scene-designer)
+- [Sketch2Mesh: Reconstructing and Editing 3D Shapes from Sketches](https://openaccess.thecvf.com/content/ICCV2021/papers/Guillard_Sketch2Mesh_Reconstructing_and_Editing_3D_Shapes_From_Sketches_ICCV_2021_paper.pdf), [[code]](https://github.com/cvlab-epfl/sketch2mesh)
+- (ws)[Scene Designer: a Unified Model for Scene Search and Synthesis from Sketch](https://openaccess.thecvf.com/content/ICCV2021W/SHE/papers/Ribeiro_Scene_Designer_A_Unified_Model_for_Scene_Search_and_Synthesis_ICCVW_2021_paper.pdf), [[code]](https://github.com/leosampaio/scene-designer)
+- (ws)[SketchBird: Learning To Generate Bird Sketches From Text](https://openaccess.thecvf.com/content/ICCV2021W/SHE/papers/Yuan_SketchBird_Learning_To_Generate_Bird_Sketches_From_Text_ICCVW_2021_paper.pdf)
+- (ws)[SketchyDepth: From Scene Sketches to RGB-D Images](https://openaccess.thecvf.com/content/ICCV2021W/SHE/papers/Berardi_SketchyDepth_From_Scene_Sketches_to_RGB-D_Images_ICCVW_2021_paper.pdf)
+- (ws)[Supporting Reference Imagery for Digital Drawing](https://openaccess.thecvf.com/content/ICCV2021W/SHE/papers/Holinaty_Supporting_Reference_Imagery_for_Digital_Drawing_ICCVW_2021_paper.pdf)
 
 ### IJCAI
 - [Domain-Smoothing Network for Zero-Shot Sketch-Based Image Retrieval](https://arxiv.org/pdf/2106.11841.pdf), [[code]](https://github.com/haowang1992/DSN)
