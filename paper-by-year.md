@@ -35,12 +35,12 @@
 
 ## 2021
 ### siggraph
-- [Tracing Versus Freehand for Evaluating Computer-Generated Drawings](https://graphics.cs.yale.edu/sites/default/files/tracing-vs-freehand_0.pdf), WANG, ZEYU, SHERRY QIU, NICOLE FENG, HOLLY RUSHMEIER, LEONARD MCMILLAN, and JULIE DORSEY(Yale University), [[source code]](https://github.com/zachzeyuwang/tracing-vs-freehand), [[dataset]](http://tracer.cs.yale.edu:8000/tracing-vs-freehand/data/) 
+- [Tracing Versus Freehand for Evaluating Computer-Generated Drawings](https://graphics.cs.yale.edu/sites/default/files/tracing-vs-freehand_0.pdf), [[code]](https://github.com/zachzeyuwang/tracing-vs-freehand), [[dataset]](http://tracer.cs.yale.edu:8000/tracing-vs-freehand/data/) 
 - [Knit Sketching: from Cut & Sew Patterns to Machine-Knit Garments](http://knitsketching.csail.mit.edu/ks-paper.pdf), [[code]](https://github.com/xionluhnis/knitsketching), [[project]](http://knitsketching.csail.mit.edu/)
 
 ### TOG
-- [General Virtual Sketching Framework for Vector Line Art](https://dl.acm.org/doi/pdf/10.1145/3450626.3459833), [[source code]](https://github.com/MarkMoHR/virtual_sketching)， [[project]](https://markmohr.github.io/virtual_sketching/)
-- [SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3450284), [[source code]](https://github.com/sYeaLumin/SketchGNN)
+- [General Virtual Sketching Framework for Vector Line Art](https://dl.acm.org/doi/pdf/10.1145/3450626.3459833), [[code]](https://github.com/MarkMoHR/virtual_sketching)， [[project]](https://markmohr.github.io/virtual_sketching/)
+- [SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3450284), [[code]](https://github.com/sYeaLumin/SketchGNN)
 
 ### CVPR
 - [StyleMeUp: Towards Style-Agnostic Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2021/papers/Sain_StyleMeUp_Towards_Style-Agnostic_Sketch-Based_Image_Retrieval_CVPR_2021_paper.pdf), [[code]](https://github.com/aneeshan95/StyleMeUp)
@@ -122,7 +122,7 @@
 - [Sketchforme: Composing Sketched Scenes from Text Descriptions for Interactive Applications](https://dl.acm.org/doi/pdf/10.1145/3332165.3347878)
 
 ### WACV
-- [Photo-Sketching: Inferring Contour Drawings from Images](https://arxiv.org/pdf/1901.00542.pdf), [(source code)](https://github.com/mtli/PhotoSketch), [(dataset)](http://www.cs.cmu.edu/~mengtial/proj/sketch/)
+- [Photo-Sketching: Inferring Contour Drawings from Images](https://arxiv.org/pdf/1901.00542.pdf), [(code)](https://github.com/mtli/PhotoSketch), [(dataset)](http://www.cs.cmu.edu/~mengtial/proj/sketch/)
 
 ### MMTA
 - [A complete hand-drawn sketch vectorization framework](https://arxiv.org/pdf/1802.05902.pdf)
