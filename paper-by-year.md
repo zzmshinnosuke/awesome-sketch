@@ -18,8 +18,20 @@
 ### PAMI
 - [Deep Learning for Free-Hand Sketch: A Survey](https://www.pure.ed.ac.uk/ws/portalfiles/portal/253410048/DeepLearning_XU_DOA27012022_AFV.pdf)
 
-### CVPR
+### [SIGGRAPH](http://kesen.realtimerendering.com/sig2022.html)
+- [DeepFaceVideoEditing: Sketch-based Deep Editing of Face Videos](http://geometrylearning.com/DeepFaceVideoEditing/)
+- [Detecting Viewer-Perceived Intended Vector Sketch Connectivity](https://www.cs.ubc.ca/labs/imager/tr/2022/SketchConnectivity/)
+- [CLIPasso: Semantically-Aware Object Sketching](https://clipasso.github.io/clipasso/), [[code]](https://github.com/yael-vinker/CLIPSketch)
+- [Sketch2Pose: Estimating a 3D Character Pose from a Bitmap Sketch](http://www-ens.iro.umontreal.ca/~brodtkir/projects/sketch2pose/), [[code]](https://github.com/kbrodt/sketch2pose)
+- [Symmetry-driven 3D Reconstruction From Concept Sketches]()
+
+### [CVPR](https://openaccess.thecvf.com/CVPR2022)
 - [Leveraging Unlabeled Data for Sketch-based Understanding](https://arxiv.org/pdf/2204.12522.pdf)
+- [SketchEdit: Mask-Free Local Image Manipulation With Partial Sketches](https://openaccess.thecvf.com/content/CVPR2022/papers/Zeng_SketchEdit_Mask-Free_Local_Image_Manipulation_With_Partial_Sketches_CVPR_2022_paper.pdf)
+- [Sketch3T: Test-Time Training for Zero-Shot SBIR](https://openaccess.thecvf.com/content/CVPR2022/papers/Sain_Sketch3T_Test-Time_Training_for_Zero-Shot_SBIR_CVPR_2022_paper.pdf)
+- [Sketching Without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2022/papers/Bhunia_Sketching_Without_Worrying_Noise-Tolerant_Sketch-Based_Image_Retrieval_CVPR_2022_paper.pdf)
+- [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://openaccess.thecvf.com/content/CVPR2022/papers/Bhunia_Doodle_It_Yourself_Class_Incremental_Learning_by_Drawing_a_Few_CVPR_2022_paper.pdf)
+
 
 ## 2021
 ### siggraph
