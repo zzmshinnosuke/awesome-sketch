@@ -165,9 +165,9 @@
 - [SketchyScene: Richly-Annotated Scene Sketches](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqing_Zou_SketchyScene_Richly-Annotated_Scene_ECCV_2018_paper.pdf)，Changqing Zou, Qian Yu, Ruofei Du, Haoran Mo, Yi-Zhe Song, Tao Xiang, Chengying Gao, Baoquan Chen, Hao Zhang  
 - [A_ Zero-Shot Framework for Sketch based Image Retrieval](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sasikiran_Yelamarthi_A_Zero-Shot_Framework_ECCV_2018_paper.pdf)，Sasi Kiran Yelamarthi, Shiva Krishna Reddy, Ashish Mishra, Anurag Mittal
 
-## 2018
 ### MM
 - [SketchParse: Towards Rich Descriptions For Poorly Drawn Sketches Using Multi-Task Deep Networks](https://dl.acm.org/doi/pdf/10.1145/3123266.3123270), [[code]](https://github.com/val-iisc/sketch-parse)
+
 ### ICLR
 - [A Neural Representation of Sketch Drawings](https://arxiv.org/pdf/1704.03477.pdf)
 
