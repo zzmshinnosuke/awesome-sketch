@@ -1,6 +1,6 @@
  - [SOLO: Segmenting Objects by Locations](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630630.pdf), ECCV, 2020, [[code]](https://github.com/WXinlong/SOLO)
  
- - [SOLOv2: Dynamic and Fast Instance Segmentation](https://proceedings.neurips.cc/paper/2020/hash/cd3afef9b8b89558cd56638c3631868a-Abstract.html), NeurIPS, 2020, [[code]](https://github.com/aim-uofa/AdelaiDet/), [[解读]](https://blog.csdn.net/weixin_42708301/article/details/115557838)
+ - [SOLOv2: Dynamic and Fast Instance Segmentation](https://proceedings.neurips.cc/paper/2020/hash/cd3afef9b8b89558cd56638c3631868a-Abstract.html), NeurIPS, 2020, [[code]](https://github.com/aim-uofa/AdelaiDet/), [[解读]](https://blog.csdn.net/weixin_42708301/article/details/115557838), [[pytorch 实现1]](https://github.com/OpenFirework/pytorch_solov2), [[pytorch 实现2]](https://github.com/BXuan694/SOLO-pytorch)
 
  - [SOLO: A Simple Framework for Instance Segmentation](https://arxiv.org/pdf/2106.15947.pdf), TPAMI, 2021
 
