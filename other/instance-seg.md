@@ -10,3 +10,6 @@
 
 
  - [You Only Look Once: Unified, Real-Time Object Detection](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf), CVPR, 2016, [[code]](https://pjreddie.com/darknet/yolo/), [[pytorch-code1]](https://github.com/DuanYiqun/pytorch_implementation_of_Yolov1), [[pytorch-code2]](https://github.com/abeardear/pytorch-YOLO-v1)
+
+ ## semantic segmentation
+ - [Segmenter: Transformer for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Strudel_Segmenter_Transformer_for_Semantic_Segmentation_ICCV_2021_paper.pdf), ICCV, 2021, [[code]](https://github.com/rstrudel/segmenter)
