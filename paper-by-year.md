@@ -24,6 +24,7 @@
 - [CLIPasso: Semantically-Aware Object Sketching](https://clipasso.github.io/clipasso/), [[code]](https://github.com/yael-vinker/CLIPSketch)
 - [Sketch2Pose: Estimating a 3D Character Pose from a Bitmap Sketch](http://www-ens.iro.umontreal.ca/~brodtkir/projects/sketch2pose/), [[code]](https://github.com/kbrodt/sketch2pose)
 - [Symmetry-driven 3D Reconstruction From Concept Sketches]
+- [Free2CAD: Parsing Freehand Drawings into CAD Commands](https://hal.inria.fr/hal-03683482/document), [[code]](https://github.com/Enigma-li/Free2CAD)
 
 ### [CVPR](https://openaccess.thecvf.com/CVPR2022)
 - [SketchEdit: Mask-Free Local Image Manipulation With Partial Sketches](https://openaccess.thecvf.com/content/CVPR2022/papers/Zeng_SketchEdit_Mask-Free_Local_Image_Manipulation_With_Partial_Sketches_CVPR_2022_paper.pdf)
