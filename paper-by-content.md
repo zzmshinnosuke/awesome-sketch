@@ -6,6 +6,7 @@
 * [Sketch-Based Video Retrival](#SBVR)
 * [Image2Sketch](#I2S)
 * [3D Sketch](#3D-Sketch)
+* [SketchCAD](#SketchCAD)
 
 ## Sketch-Survey
 - [Deep Learning for Free-Hand Sketch: A Survey](https://www.pure.ed.ac.uk/ws/portalfiles/portal/253410048/DeepLearning_XU_DOA27012022_AFV.pdf), PAMI, 2022
@@ -67,3 +68,6 @@
 
 ## 3D-Sketch
 - [Sketch2Scene: Sketch-based Co-retrieval and Co-placement of 3D Model](https://cg.cs.tsinghua.edu.cn/sketch2scene/sketch2scene_paper.pdf), TOG, 2013
+
+## SketchCAD
+- [Free2CAD: Parsing Freehand Drawings into CAD Commands](https://hal.inria.fr/hal-03683482/document), SIGGRAPH, 2022, [[code]](https://github.com/Enigma-li/Free2CAD)
