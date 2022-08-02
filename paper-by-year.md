@@ -38,6 +38,9 @@
 - (ws)[Signature Detection, Restoration, and Verification: A Novel Chinese Document Signature Forgery Detection Benchmark](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Yan_Signature_Detection_Restoration_and_Verification_A_Novel_Chinese_Document_Signature_CVPRW_2022_paper.pdf)
 - (ws)[The Role of Shape for Domain Generalization on Sparsely-Textured Images](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Nazari_The_Role_of_Shape_for_Domain_Generalization_on_Sparsely-Textured_Images_CVPRW_2022_paper.pdf)
 
+### [ECCV]
+- [A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch](https://patsorn.me/projects/tsbir/paper.pdf), [[code]](https://patsorn.me/projects/tsbir/)
+
 
 ## 2021
 ### siggraph
