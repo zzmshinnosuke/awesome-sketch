@@ -63,6 +63,9 @@
 ## SBVR
 - [Interactive Video Asset Retrieval using Sketched Queries](https://dl.acm.org/doi/pdf/10.1145/2668904.2668940), CVMP, 2014, [[code]](https://github.com/StTu/GF-HOG)
 
+## SBIG
+[Scribbler: Controlling Deep Image Synthesis with Sketch and Color](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sangkloy_Scribbler_Controlling_Deep_CVPR_2017_paper.pdf), CVPR, 2017
+
 ## I2S
 - [Photo-Sketching: Inferring Contour Drawings from Images](https://arxiv.org/pdf/1901.00542.pdf), WACV, 2019
 - [I2S2: Image-to-Scene Sketch Translation Using Conditional Input and Adversarial Networks](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/1pP3CFxu18c/pdf), ICTAI, 2020

@@ -8,7 +8,6 @@
 - [Cross-Modal Joint Prediction and Alignment for Composed Query Image Retrieval](https://dl.acm.org/doi/pdf/10.1145/3474085.3475483), [d], MM, 2021
 - [Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://arxiv.org/pdf/2203.14817/pdf), [d]
 - [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://arxiv.org/pdf/2203.14843/pdf), [d]
-- [Scribbler: Controlling Deep Image Synthesis with Sketch and Color](https://arxiv.org/pdf/1612.00835.pdf), [d]
 - [3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics](https://openaccess.thecvf.com/content/ICCV2021/papers/Fu_3D-FRONT_3D_Furnished_Rooms_With_layOuts_and_semaNTics_ICCV_2021_paper.pdf), [d], ICCV, 2021
 - [3D-FUTURE: 3D Furniture shape with TextURE](https://arxiv.org/pdf/2009.09633.pdf), [d], IJCV, 2021
 - [Neural Wireframe Renderer: Learning Wireframe to Image Translations](https://arxiv.org/pdf/1912.03840.pdf)
