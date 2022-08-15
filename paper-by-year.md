@@ -186,3 +186,8 @@
 ## 2013
 ### TOG
 - [Sketch2Scene: Sketch-based co-retrieval and co-placement of 3D models](https://cg.cs.tsinghua.edu.cn/sketch2scene/sketch2scene_paper.pdf)
+
+## 2009
+### TOG
+- [From Image Parsing to Painterly Rendering](https://www.researchgate.net/profile/Caiming-Xiong/publication/216813528_From_Image_Parsing_to_Painterly_Rendering/links/0c96052278e687f52f000000/From-Image-Parsing-to-Painterly-Rendering.pdf)
+- [Sketch2Photo: Internet Image Montage](https://dl.acm.org/doi/abs/10.1145/1618452.1618470)

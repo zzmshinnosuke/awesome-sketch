@@ -12,3 +12,7 @@
 - [3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics](https://openaccess.thecvf.com/content/ICCV2021/papers/Fu_3D-FRONT_3D_Furnished_Rooms_With_layOuts_and_semaNTics_ICCV_2021_paper.pdf), [d], ICCV, 2021
 - [3D-FUTURE: 3D Furniture shape with TextURE](https://arxiv.org/pdf/2009.09633.pdf), [d], IJCV, 2021
 - [Neural Wireframe Renderer: Learning Wireframe to Image Translations](https://arxiv.org/pdf/1912.03840.pdf)
+- [Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions](https://openaccess.thecvf.com/content_CVPR_2020/html/Wald_Learning_3D_Semantic_Scene_Graphs_From_3D_Indoor_Reconstructions_CVPR_2020_paper.html), CVPR, 2020
+
+## Text edit Image
+[StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://openaccess.thecvf.com/content/ICCV2021/papers/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf), ICCV, 2021
