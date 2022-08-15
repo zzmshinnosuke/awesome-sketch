@@ -36,6 +36,7 @@
 - [Sketching Without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2022/papers/Bhunia_Sketching_Without_Worrying_Noise-Tolerant_Sketch-Based_Image_Retrieval_CVPR_2022_paper.pdf)
 - [Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches](https://openaccess.thecvf.com/content/CVPR2022/papers/Bhunia_Doodle_It_Yourself_Class_Incremental_Learning_by_Drawing_a_Few_CVPR_2022_paper.pdf)
 - [Finding Badly Drawn Bunnies](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Finding_Badly_Drawn_Bunnies_CVPR_2022_paper.pdf)
+- [Partially Does It: Towards Scene-Level FG-SBIR with Partial Input](https://openaccess.thecvf.com/content/CVPR2022/papers/Chowdhury_Partially_Does_It_Towards_Scene-Level_FG-SBIR_With_Partial_Input_CVPR_2022_paper.pdf)
 - (ws)[SSR-GNNs: Stroke-based Sketch Representation with Graph Neural Networks](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Cheng_SSR-GNNs_Stroke-Based_Sketch_Representation_With_Graph_Neural_Networks_CVPRW_2022_paper.pdf)
 - (ws)[Leveraging Unlabeled Data for Sketch-Based Understanding](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Morales_Leveraging_Unlabeled_Data_for_Sketch-Based_Understanding_CVPRW_2022_paper.pdf)
 - (ws)[Constellations: A Novel Dataset for Studying Iterative Inference in Humans and AI](https://openaccess.thecvf.com/content/CVPR2022W/SketchDL/papers/Khajuria_Constellations_A_Novel_Dataset_for_Studying_Iterative_Inference_in_Humans_CVPRW_2022_paper.pdf)
