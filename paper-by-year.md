@@ -9,6 +9,10 @@
 * [2013](#2013)
 
 ## 2022
+### TOG
+- [DeepFaceVideoEditing: sketch-based deep editing of face videos](https://dl.acm.org/doi/abs/10.1145/3528223.3530056)
+
+
 ### TIP
 - [One Sketch for All: One-Shot Personalized Sketch Segmentation](https://ieeexplore.ieee.org/abstract/document/9739995)
 - [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584), [[code]](https://github.com/drcege/Local-Detail-Perception)
