@@ -4,6 +4,7 @@
 * [Sketch Semantic Segmentation](#SSS)
 * [Sketch-Based Image Retrival](#SBIR)
 * [Sketch-Based Video Retrival](#SBVR)
+* [Sketch-Based Image Generation](#SBIG)
 * [Image2Sketch](#I2S)
 * [3D Sketch](#3D-Sketch)
 * [SketchCAD](#SketchCAD)
@@ -64,7 +65,9 @@
 - [Interactive Video Asset Retrieval using Sketched Queries](https://dl.acm.org/doi/pdf/10.1145/2668904.2668940), CVMP, 2014, [[code]](https://github.com/StTu/GF-HOG)
 
 ## SBIG
-[Scribbler: Controlling Deep Image Synthesis with Sketch and Color](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sangkloy_Scribbler_Controlling_Deep_CVPR_2017_paper.pdf), CVPR, 2017
+- [Scene Designer: a Unified Model for Scene Search and Synthesis from Sketch](https://openaccess.thecvf.com/content/ICCV2021W/SHE/papers/Ribeiro_Scene_Designer_A_Unified_Model_for_Scene_Search_and_Synthesis_ICCVW_2021_paper.pdf), ICCVW, 2021, [[code]](https://github.com/leosampaio/scene-designer)
+- [SketchyCOCO: Image Generation from Freehand Scene Sketches](https://arxiv.org/pdf/2003.02683v5.pdf), CVPR, 2020, [[code]](https://github.com/sysu-imsl/EdgeGAN)
+- [Scribbler: Controlling Deep Image Synthesis with Sketch and Color](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sangkloy_Scribbler_Controlling_Deep_CVPR_2017_paper.pdf), CVPR, 2017
 
 ## I2S
 - [Photo-Sketching: Inferring Contour Drawings from Images](https://arxiv.org/pdf/1901.00542.pdf), WACV, 2019
