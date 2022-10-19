@@ -13,5 +13,7 @@
 - [Neural Wireframe Renderer: Learning Wireframe to Image Translations](https://arxiv.org/pdf/1912.03840.pdf)
 - [Learning 3D Semantic Scene Graphs from 3D Indoor Reconstructions](https://openaccess.thecvf.com/content_CVPR_2020/html/Wald_Learning_3D_Semantic_Scene_Graphs_From_3D_Indoor_Reconstructions_CVPR_2020_paper.html), CVPR, 2020
 
-## Text edit Image
+## Text Image Video
 [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery](https://openaccess.thecvf.com/content/ICCV2021/papers/Patashnik_StyleCLIP_Text-Driven_Manipulation_of_StyleGAN_Imagery_ICCV_2021_paper.pdf), ICCV, 2021
+
+[Everything at Once-Multi-Modal Fusion Transformer for Video Retrieval](https://openaccess.thecvf.com/content/CVPR2022/papers/Shvetsova_Everything_at_Once_-_Multi-Modal_Fusion_Transformer_for_Video_Retrieval_CVPR_2022_paper.pdf), CVPR, 2022
