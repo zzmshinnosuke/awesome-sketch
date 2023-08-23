@@ -1,5 +1,6 @@
 # sketch papers by year
 ## Table of Contents
+* [2023](#2023)
 * [2022](#2022)
 * [2021](#2021)
 * [2020](#2020)
@@ -8,12 +9,26 @@
 * [2017](#2017)
 * [2013](#2013)
 
+## 2023
+### SIGGRAPH & TOG
+
+### CVPR
+- [CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not](https://openaccess.thecvf.com/content/CVPR2023/papers/Sain_CLIP_for_All_Things_Zero-Shot_Sketch-Based_Image_Retrieval_Fine-Grained_or_CVPR_2023_paper.pdf), [[code]](https://aneeshan95.github.io/Sketch_LVM/)
+- [Zero-Shot Everything Sketch-Based Image Retrieval, and in Explainable Style](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Zero-Shot_Everything_Sketch-Based_Image_Retrieval_and_in_Explainable_Style_CVPR_2023_paper.pdf), [[code]](https://github.com/buptLinfy/ZSE-SBIR)
+
+### ICCV
+
+### AAAI
+
+### IJCAI
+
+
 ## 2022
-### TOG
+### SIGGRAPH & TOG
 - [DeepFaceVideoEditing: sketch-based deep editing of face videos](https://dl.acm.org/doi/abs/10.1145/3528223.3530056)
 
-
 ### TIP
+- [Sketch-Segformer: Transformer-Based Segmentation for Figurative and Creative Sketches](https://github.com/PRIS-CV/Sketch-SF)
 - [One Sketch for All: One-Shot Personalized Sketch Segmentation](https://ieeexplore.ieee.org/abstract/document/9739995)
 - [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584), [[code]](https://github.com/drcege/Local-Detail-Perception)
 - [SceneSketcher-v2: Fine-Grained Scene-LevelSketch-Based Image Retrieval Using Adaptive GCNs](https://ieeexplore.ieee.org/abstract/document/9779565)
@@ -48,11 +63,9 @@
 
 
 ## 2021
-### siggraph
+### SIGGRAPH & TOG
 - [Tracing Versus Freehand for Evaluating Computer-Generated Drawings](https://graphics.cs.yale.edu/sites/default/files/tracing-vs-freehand_0.pdf), [[code]](https://github.com/zachzeyuwang/tracing-vs-freehand), [[dataset]](http://tracer.cs.yale.edu:8000/tracing-vs-freehand/data/) 
 - [Knit Sketching: from Cut & Sew Patterns to Machine-Knit Garments](http://knitsketching.csail.mit.edu/ks-paper.pdf), [[code]](https://github.com/xionluhnis/knitsketching), [[project]](http://knitsketching.csail.mit.edu/)
-
-### TOG
 - [General Virtual Sketching Framework for Vector Line Art](https://dl.acm.org/doi/pdf/10.1145/3450626.3459833), [[code]](https://github.com/MarkMoHR/virtual_sketching)， [[project]](https://markmohr.github.io/virtual_sketching/)
 - [SketchGNN: Semantic Sketch Segmentation with Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3450284), [[code]](https://github.com/sYeaLumin/SketchGNN)
 

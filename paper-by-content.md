@@ -6,6 +6,7 @@
 * [Sketch-Based Video Retrival](#SBVR)
 * [Sketch-Based Image Generation](#SBIG)
 * [Image2Sketch](#I2S)
+* [Sketch Geneartion](#SG)
 * [3D Sketch](#3D-Sketch)
 * [SketchCAD](#SketchCAD)
 
@@ -17,6 +18,8 @@
 - [Multistage Spatio-Temporal Networks for Robust Sketch Recognition](https://ieeexplore.ieee.org/abstract/document/9740528), TIP, 2022
 
 ## SSS
+- [Sketch-Segformer: Transformer-Based Segmentation for Figurative and Creative Sketches](https://ieeexplore.ieee.org/abstract/document/10214525), TIP, 2022, [[code]]((https://github.com/PRIS-CV/Sketch-SF))
+
 - [One Sketch for All: One-Shot Personalized Sketch Segmentation](https://ieeexplore.ieee.org/abstract/document/9739995), TIP, 2022
 
 - [Exploring Local Detail Perception for Scene Sketch Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/9686584), TIP, 2022
@@ -59,7 +62,14 @@
 ## SBIR
 - [Partially Does It: Towards Scene-Level FG-SBIR with Partial Input](https://arxiv.org/pdf/2203.14804/pdf), CVPR, 2022
 - [Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://arxiv.org/pdf/2203.14817/pdf), CVPR, 2022
+
+### Zero-Shot
+- [CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not](https://openaccess.thecvf.com/content/CVPR2023/papers/Sain_CLIP_for_All_Things_Zero-Shot_Sketch-Based_Image_Retrieval_Fine-Grained_or_CVPR_2023_paper.pdf), CVPR, 2023, [[code]](https://aneeshan95.github.io/Sketch_LVM/)
+- [Zero-Shot Everything Sketch-Based Image Retrieval, and in Explainable Style](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Zero-Shot_Everything_Sketch-Based_Image_Retrieval_and_in_Explainable_Style_CVPR_2023_paper.pdf), CVPR, 2023, [[code]](https://github.com/buptLinfy/ZSE-SBIR)
 - [Sketch3T: Test-Time Training for Zero-Shot SBIR](https://arxiv.org/pdf/2203.14691.pdf), CVPR, 2022
+
+### Scene
+
 
 ## SBVR
 - [Interactive Video Asset Retrieval using Sketched Queries](https://dl.acm.org/doi/pdf/10.1145/2668904.2668940), CVMP, 2014, [[code]](https://github.com/StTu/GF-HOG)
@@ -70,8 +80,16 @@
 - [Scribbler: Controlling Deep Image Synthesis with Sketch and Color](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sangkloy_Scribbler_Controlling_Deep_CVPR_2017_paper.pdf), CVPR, 2017
 
 ## I2S
+- [DeepFaceVideoEditing: Sketch-based Deep Editing of Face Videos](https://orca.cardiff.ac.uk/id/eprint/150487/), TOG, 2022
+- [DeepFaceEditing: Deep Face Generation and Editing with Disentangled Geometry and Appearance Control](https://orca.cardiff.ac.uk/id/eprint/141560/1/DeepFaceEditing_SIGGRAPH2021.pdf), TOG, 2021
 - [Photo-Sketching: Inferring Contour Drawings from Images](https://arxiv.org/pdf/1901.00542.pdf), WACV, 2019
 - [I2S2: Image-to-Scene Sketch Translation Using Conditional Input and Adversarial Networks](https://www.computer.org/csdl/pds/api/csdl/proceedings/download-article/1pP3CFxu18c/pdf), ICTAI, 2020
+
+## SG
+- [CLIPasso: Semantically-Aware Object Sketching](https://dl.acm.org/doi/pdf/10.1145/3528223.3530068), TOG, 2022, [[code]](https://clipasso.github.io/clipasso/)
+- [StoryDrawer](https://dl.acm.org/doi/pdf/10.1145/3491102.3501914), CHI, 2022
+- [CREATIVE SKETCH GENERATION](https://openreview.net/forum?id=gwnoVHIES05), ICLR, 2021, [[code]](https://github.com/facebookresearch/DoodlerGAN)
+- [AI-Sketcher : A Deep Generative Model for Producing High-Quality Sketches](https://ojs.aaai.org/index.php/AAAI/article/download/4103/3981), AAAI, 2019
 
 ## 3D-Sketch
 - [Sketch2Scene: Sketch-based Co-retrieval and Co-placement of 3D Model](https://cg.cs.tsinghua.edu.cn/sketch2scene/sketch2scene_paper.pdf), TOG, 2013
