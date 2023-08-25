@@ -10,7 +10,16 @@
 * [2013](#2013)
 
 ## 2023
-### SIGGRAPH & TOG
+### [SIGGRAPH](https://kesen.realtimerendering.com/sig2023.html) & TOG
+- [A Method for Animating Children’s Drawings of the Human Figure](https://arxiv.org/abs/2303.12741), [[code]](https://github.com/facebookresearch/AnimatedDrawings)
+- [VideoDoodles: Hand-Drawn Animations on Videos with Scene-Aware Canvases](https://em-yu.github.io/research/videodoodles/)
+- [StripMaker: Perception-driven Learned Vector Sketch Consolidation](https://www.cs.ubc.ca/labs/imager/tr/2023/stripmaker/stripmaker_authorversion.pdf), [[code]](https://www.cs.ubc.ca/labs/imager/tr/2023/stripmaker/)
+- [Semi-supervised Reference-based Sketch Extraction Using a Contrastive Learning Framework](https://drive.google.com/file/d/1FELTVl73OrQ9Q0uBXN7jLbRStSsF-NgM/view?usp=sharing), [[code]](https://chanuku.github.io/Semi_ref2sketch/)
+- [AniFaceDrawing: Anime Portrait Exploration during Your Sketching](https://arxiv.org/abs/2306.07476), [[code]](http://www.jaist.ac.jp/~xie/AniFaceDrawing.html)
+- [Differential Operators on Sketches via Alpha Contours](http://www-labs.iro.umontreal.ca/~bmpix/pdf/AlphaContours.pdf), [[code]](https://github.com/bmpix/AlphaContours/)
+- [Sketch-Guided Text-to-Image Diffusion Models](https://sketch-guided-diffusion.github.io/files/sketch-guided-preprint.pdf), [[code]](https://sketch-guided-diffusion.github.io/)
+- [SketchFaceNeRF: Sketch-based Facial Generation and Editing in Neural Radiance Fields](https://orca.cardiff.ac.uk/id/eprint/159468/1/NeRFFaceSketch_SIG23.pdf)
+
 
 ### CVPR ([CVPR2023](https://docs.google.com/spreadsheets/d/1OAUf7sQfJ6cSU4BiOtyl-t4dMm4iFqdEDHCSs7R2jZo/edit#gid=790796183))
 - [CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not](https://openaccess.thecvf.com/content/CVPR2023/papers/Sain_CLIP_for_All_Things_Zero-Shot_Sketch-Based_Image_Retrieval_Fine-Grained_or_CVPR_2023_paper.pdf), [[code]](https://aneeshan95.github.io/Sketch_LVM/)
@@ -25,6 +34,7 @@
 - [SECAD-Net: Self-Supervised CAD Reconstruction by Learning Sketch-Extrude Operations](http://openaccess.thecvf.com/content/CVPR2023/papers/Li_SECAD-Net_Self-Supervised_CAD_Reconstruction_by_Learning_Sketch-Extrude_Operations_CVPR_2023_paper.pdf), [[code]](https://github.com/BunnySoCrazy/SECAD-Net)
 - [Learning Geometry-aware Representations by Sketching](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Learning_Geometry-Aware_Representations_by_Sketching_CVPR_2023_paper.pdf)
 - [SketchXAI: A First Look at Explainability for Human Sketches](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_SketchXAI_A_First_Look_at_Explainability_for_Human_Sketches_CVPR_2023_paper.pdf), [[code]](https://sketchxai.github.io/)
+- [HiGAN+: Handwriting Imitation GAN with Disentangled Representations](https://dl.acm.org/doi/pdf/10.1145/3550070), [[code]](https://github.com/ganji15/HiGANplus)
 
 ### ICCV
 
@@ -34,8 +44,13 @@
 
 
 ## 2022
-### SIGGRAPH & TOG
-- [DeepFaceVideoEditing: sketch-based deep editing of face videos](https://dl.acm.org/doi/abs/10.1145/3528223.3530056)
+### [SIGGRAPH](http://kesen.realtimerendering.com/sig2022.html) & TOG
+- [DeepFaceVideoEditing: sketch-based deep editing of face videos](https://dl.acm.org/doi/abs/10.1145/3528223.3530056), [[code]](http://geometrylearning.com/DeepFaceVideoEditing/)
+- [Detecting Viewer-Perceived Intended Vector Sketch Connectivity](https://www.cs.ubc.ca/labs/imager/tr/2022/SketchConnectivity/)
+- [CLIPasso: Semantically-Aware Object Sketching](https://clipasso.github.io/clipasso/), [[code]](https://github.com/yael-vinker/CLIPSketch)
+- [Sketch2Pose: Estimating a 3D Character Pose from a Bitmap Sketch](http://www-ens.iro.umontreal.ca/~brodtkir/projects/sketch2pose/), [[code]](https://github.com/kbrodt/sketch2pose)
+- [Symmetry-driven 3D Reconstruction From Concept Sketches]
+- [Free2CAD: Parsing Freehand Drawings into CAD Commands](https://hal.inria.fr/hal-03683482/document), [[code]](https://github.com/Enigma-li/Free2CAD)
 
 ### TIP
 - [Sketch-Segformer: Transformer-Based Segmentation for Figurative and Creative Sketches](https://github.com/PRIS-CV/Sketch-SF)
@@ -46,14 +61,6 @@
 
 ### PAMI
 - [Deep Learning for Free-Hand Sketch: A Survey](https://www.pure.ed.ac.uk/ws/portalfiles/portal/253410048/DeepLearning_XU_DOA27012022_AFV.pdf)
-
-### [SIGGRAPH](http://kesen.realtimerendering.com/sig2022.html)
-- [DeepFaceVideoEditing: Sketch-based Deep Editing of Face Videos](http://geometrylearning.com/DeepFaceVideoEditing/)
-- [Detecting Viewer-Perceived Intended Vector Sketch Connectivity](https://www.cs.ubc.ca/labs/imager/tr/2022/SketchConnectivity/)
-- [CLIPasso: Semantically-Aware Object Sketching](https://clipasso.github.io/clipasso/), [[code]](https://github.com/yael-vinker/CLIPSketch)
-- [Sketch2Pose: Estimating a 3D Character Pose from a Bitmap Sketch](http://www-ens.iro.umontreal.ca/~brodtkir/projects/sketch2pose/), [[code]](https://github.com/kbrodt/sketch2pose)
-- [Symmetry-driven 3D Reconstruction From Concept Sketches]
-- [Free2CAD: Parsing Freehand Drawings into CAD Commands](https://hal.inria.fr/hal-03683482/document), [[code]](https://github.com/Enigma-li/Free2CAD)
 
 ### [CVPR](https://openaccess.thecvf.com/CVPR2022)
 - [SketchEdit: Mask-Free Local Image Manipulation With Partial Sketches](https://openaccess.thecvf.com/content/CVPR2022/papers/Zeng_SketchEdit_Mask-Free_Local_Image_Manipulation_With_Partial_Sketches_CVPR_2022_paper.pdf)
