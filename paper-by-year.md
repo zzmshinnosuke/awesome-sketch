@@ -34,7 +34,7 @@
 - [SECAD-Net: Self-Supervised CAD Reconstruction by Learning Sketch-Extrude Operations](http://openaccess.thecvf.com/content/CVPR2023/papers/Li_SECAD-Net_Self-Supervised_CAD_Reconstruction_by_Learning_Sketch-Extrude_Operations_CVPR_2023_paper.pdf), [[code]](https://github.com/BunnySoCrazy/SECAD-Net)
 - [Learning Geometry-aware Representations by Sketching](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Learning_Geometry-Aware_Representations_by_Sketching_CVPR_2023_paper.pdf)
 - [SketchXAI: A First Look at Explainability for Human Sketches](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_SketchXAI_A_First_Look_at_Explainability_for_Human_Sketches_CVPR_2023_paper.pdf), [[code]](https://sketchxai.github.io/)
-- [HiGAN+: Handwriting Imitation GAN with Disentangled Representations](https://dl.acm.org/doi/pdf/10.1145/3550070), [[code]](https://github.com/ganji15/HiGANplus)
+
 
 ### ICCV
 
@@ -51,6 +51,7 @@
 - [Sketch2Pose: Estimating a 3D Character Pose from a Bitmap Sketch](http://www-ens.iro.umontreal.ca/~brodtkir/projects/sketch2pose/), [[code]](https://github.com/kbrodt/sketch2pose)
 - [Symmetry-driven 3D Reconstruction From Concept Sketches]
 - [Free2CAD: Parsing Freehand Drawings into CAD Commands](https://hal.inria.fr/hal-03683482/document), [[code]](https://github.com/Enigma-li/Free2CAD)
+- [HiGAN+: Handwriting Imitation GAN with Disentangled Representations](https://dl.acm.org/doi/pdf/10.1145/3550070), [[code]](https://github.com/ganji15/HiGANplus)
 
 ### TIP
 - [Sketch-Segformer: Transformer-Based Segmentation for Figurative and Creative Sketches](https://github.com/PRIS-CV/Sketch-SF)
