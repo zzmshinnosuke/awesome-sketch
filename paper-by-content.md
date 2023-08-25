@@ -60,6 +60,8 @@
 
 
 ## SBIR
+- [Data-Free Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2023/papers/Chaudhuri_Data-Free_Sketch-Based_Image_Retrieval_CVPR_2023_paper.pdf), CVPR, 2023, [[code]](https: //github.com/abhrac/data-free-sbir)
+- [SceneTrilogy: On Human Scene-Sketch and its Complementarity with Photo and Text](https://openaccess.thecvf.com/content/CVPR2023/papers/Chowdhury_SceneTrilogy_On_Human_Scene-Sketch_and_Its_Complementarity_With_Photo_and_CVPR_2023_paper.pdf), CVPR, 2023, [[code]](http://www.pinakinathc.me/scenetrilogy)
 - [Partially Does It: Towards Scene-Level FG-SBIR with Partial Input](https://arxiv.org/pdf/2203.14804/pdf), CVPR, 2022
 - [Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://arxiv.org/pdf/2203.14817/pdf), CVPR, 2022
 

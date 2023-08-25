@@ -12,9 +12,19 @@
 ## 2023
 ### SIGGRAPH & TOG
 
-### CVPR
+### CVPR ([CVPR2023](https://docs.google.com/spreadsheets/d/1OAUf7sQfJ6cSU4BiOtyl-t4dMm4iFqdEDHCSs7R2jZo/edit#gid=790796183))
 - [CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not](https://openaccess.thecvf.com/content/CVPR2023/papers/Sain_CLIP_for_All_Things_Zero-Shot_Sketch-Based_Image_Retrieval_Fine-Grained_or_CVPR_2023_paper.pdf), [[code]](https://aneeshan95.github.io/Sketch_LVM/)
 - [Zero-Shot Everything Sketch-Based Image Retrieval, and in Explainable Style](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Zero-Shot_Everything_Sketch-Based_Image_Retrieval_and_in_Explainable_Style_CVPR_2023_paper.pdf), [[code]](https://github.com/buptLinfy/ZSE-SBIR)
+- [What Can Human Sketches Do for Object Detection?](https://openaccess.thecvf.com/content/CVPR2023/papers/Chowdhury_What_Can_Human_Sketches_Do_for_Object_Detection_CVPR_2023_paper.pdf), [[code]](https://pinakinathc.github.io/sketch-detect)
+- [Data-Free Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2023/papers/Chaudhuri_Data-Free_Sketch-Based_Image_Retrieval_CVPR_2023_paper.pdf), [[code]](https://github.com/abhrac/data-free-sbir)
+- [SceneTrilogy: On Human Scene-Sketch and its Complementarity with Photo and Text](https://openaccess.thecvf.com/content/CVPR2023/papers/Chowdhury_SceneTrilogy_On_Human_Scene-Sketch_and_Its_Complementarity_With_Photo_and_CVPR_2023_paper.pdf), [[code]](http://www.pinakinathc.me/scenetrilogy)
+- [MaskSketch: Unpaired Structure-guided Masked Image Generation](http://openaccess.thecvf.com/content/CVPR2023/papers/Bashkirova_MaskSketch_Unpaired_Structure-Guided_Masked_Image_Generation_CVPR_2023_paper.pdf), [[code]](https://masksketch.github.io/)
+- [Sketch2Saliency: Learning to Detect Salient Objects from Human Drawings](https://openaccess.thecvf.com/content/CVPR2023/papers/Bhunia_Sketch2Saliency_Learning_To_Detect_Salient_Objects_From_Human_Drawings_CVPR_2023_paper.pdf)
+- [Photo Pre-Training, But for Sketch](http://openaccess.thecvf.com/content/CVPR2023/papers/Li_Photo_Pre-Training_but_for_Sketch_CVPR_2023_paper.pdf), [[code]](https://github.com/KeLi-SketchX/Photo-Pre-Training-But-for-Sketch)
+- [Picture that Sketch: Photorealistic Image Generation from Abstract Sketches](https://openaccess.thecvf.com/content/CVPR2023/papers/Koley_Picture_That_Sketch_Photorealistic_Image_Generation_From_Abstract_Sketches_CVPR_2023_paper.pdf), [[code]](https://subhadeepkoley.github.io/PictureThatSketch)
+- [SECAD-Net: Self-Supervised CAD Reconstruction by Learning Sketch-Extrude Operations](http://openaccess.thecvf.com/content/CVPR2023/papers/Li_SECAD-Net_Self-Supervised_CAD_Reconstruction_by_Learning_Sketch-Extrude_Operations_CVPR_2023_paper.pdf), [[code]](https://github.com/BunnySoCrazy/SECAD-Net)
+- [Learning Geometry-aware Representations by Sketching](https://openaccess.thecvf.com/content/CVPR2023/papers/Lee_Learning_Geometry-Aware_Representations_by_Sketching_CVPR_2023_paper.pdf)
+- [SketchXAI: A First Look at Explainability for Human Sketches](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_SketchXAI_A_First_Look_at_Explainability_for_Human_Sketches_CVPR_2023_paper.pdf), [[code]](https://sketchxai.github.io/)
 
 ### ICCV
 
