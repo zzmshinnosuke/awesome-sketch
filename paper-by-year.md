@@ -78,6 +78,7 @@
 
 ### [ECCV]
 - [A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch](https://patsorn.me/projects/tsbir/paper.pdf), [[code]](https://patsorn.me/projects/tsbir/)
+- [Cogs: Controllable generation and search from sketch and style](https://arxiv.org/pdf/2203.09554.pdf)
 
 
 ## 2021
