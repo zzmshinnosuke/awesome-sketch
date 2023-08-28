@@ -79,6 +79,13 @@
 ### [ECCV]
 - [A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch](https://patsorn.me/projects/tsbir/paper.pdf), [[code]](https://patsorn.me/projects/tsbir/)
 - [Cogs: Controllable generation and search from sketch and style](https://arxiv.org/pdf/2203.09554.pdf)
+- [ExtrudeNet: Unsupervised Inverse Sketch-and-Extrude for Shape Parsing](https://arxiv.org/pdf/2209.15632)
+- [Adaptive Fine-Grained Sketch-Based Image Retrieval](https://arxiv.org/pdf/2207.01723)
+- [SketchSampler: Sketch-based 3D Reconstruction via View-dependent Depth Sampling](https://arxiv.org/pdf/2208.06880)
+- [Abstracting Sketches through Simple Primitives](https://arxiv.org/pdf/2207.13543)
+- [FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context](https://arxiv.org/pdf/2203.02113)
+- [Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860708.pdf)
+- [DoodleFormer: Creative Sketch Drawing with Transformers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770343-supp.pdf)
 
 
 ## 2021
