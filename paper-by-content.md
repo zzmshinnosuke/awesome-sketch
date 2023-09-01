@@ -62,15 +62,54 @@
 ## SBIR
 - [Data-Free Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2023/papers/Chaudhuri_Data-Free_Sketch-Based_Image_Retrieval_CVPR_2023_paper.pdf), CVPR, 2023, [[code]](https://github.com/abhrac/data-free-sbir)
 - [SceneTrilogy: On Human Scene-Sketch and its Complementarity with Photo and Text](https://openaccess.thecvf.com/content/CVPR2023/papers/Chowdhury_SceneTrilogy_On_Human_Scene-Sketch_and_Its_Complementarity_With_Photo_and_CVPR_2023_paper.pdf), CVPR, 2023, [[code]](http://www.pinakinathc.me/scenetrilogy)（Coming Soon）
-- [Partially Does It: Towards Scene-Level FG-SBIR with Partial Input](https://arxiv.org/pdf/2203.14804/pdf), CVPR, 2022
-- [Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://arxiv.org/pdf/2203.14817/pdf), CVPR, 2022
+- [Exploiting Unlabelled Photos for Stronger Fine-Grained SBIR](https://openaccess.thecvf.com/content/CVPR2023/papers/Sain_Exploiting_Unlabelled_Photos_for_Stronger_Fine-Grained_SBIR_CVPR_2023_paper.pdf), CVPR, 2023, [code] 
+- [Scene-Level Sketch-Based Image Retrieval with Minimal Pairwise Supervision](https://ojs.aaai.org/index.php/AAAI/article/view/25141), AAAI, 2023, [code]
+- [Boosting Fine-Grained Sketch-Based Image Retrieval with Self-Supervised Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10095145), ICASSP, 2023, [[code]](https://github.com/CDOTAD/SELFSBIR)
+- [Partially Does It: Towards Scene-Level FG-SBIR with Partial Input](https://openaccess.thecvf.com/content/CVPR2022/papers/Chowdhury_Partially_Does_It_Towards_Scene-Level_FG-SBIR_With_Partial_Input_CVPR_2022_paper.pdf), CVPR, 2022, [code]
+- [Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2022/papers/Bhunia_Sketching_Without_Worrying_Noise-Tolerant_Sketch-Based_Image_Retrieval_CVPR_2022_paper.pdf), CVPR, 2022, [[code]](https://github.com/AyanKumarBhunia/NoiseTolerant-SBIR)
+- [Adaptive Fine-Grained Sketch-Based Image Retrieval](https://link.springer.com/chapter/10.1007/978-3-031-19836-6_10), ECCV, 2022, [[code]](https://github.com/ayankumarbhunia/adaptive-fgsbir)
+- [Conditional Stroke Recovery for Fine-Grained Sketch-Based Image Retrieval](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_41), ECCV, 2022, [[code]](https://github.com/1069066484/CSR-ECCV2022)
+- [SceneSketcher-v2: Fine-grained scene-level sketch-based image retrieval using adaptive GCNs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9779565), TIP, 2022, [code]
+- [AE-Net: Fine-grained sketch-based image retrieval via attention-enhanced network](https://www.sciencedirect.com/science/article/abs/pii/S0031320321004714), Pattern Recognit, 2022, [code] 
+- [Expansion window local alignment weighted network for fine-grained sketch-based image retrieval](https://www.sciencedirect.com/science/article/pii/S0031320323005903), Pattern Recognit, 2022, [code]
+- [A deformable CNN-based triplet model for fine-grained sketch-based image retrieval](https://www.sciencedirect.com/science/article/pii/S0031320321006841), Pattern Recognit, 2022, [code] 
+- [A deformable CNN-based triplet model for fine-grained sketch-based image retrieval](https://libyw.ucas.ac.cn/https/xA98B9XvuvR7wCUN7MiHZuZAC0Fp/doi/pdf/10.1145/3503161.3548382), ACM MM, 2022, [code]
+- [Multi-Level Region Matching for Fine-Grained Sketch-Based Image Retrieval](https://dl.acm.org/doi/pdf/10.1145/3503161.3548147), ACM MM, 2022, [[code]](https://github.com/1069066484/MLRM-ACMMM2022)
+- [StyleMeUp: Towards Style-Agnostic Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2021/papers/Sain_StyleMeUp_Towards_Style-Agnostic_Sketch-Based_Image_Retrieval_CVPR_2021_paper.pdf), CVPR, 2021, [[code]](https://github.com/aneeshan95/StyleMeUp)
+- [More Photos Are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhunia_More_Photos_Are_All_You_Need_Semi-Supervised_Learning_for_Fine-Grained_CVPR_2021_paper.pdf), CVPR, 2021, [[code]](https://github.com/AyanKumarBhunia/semisupervised-FGSBIR)
+- [Sketch-QNet: A Quadruplet ConvNet for Color Sketch-based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2021W/SketchDL/papers/Fuentes_Sketch-QNet_A_Quadruplet_ConvNet_for_Color_Sketch-Based_Image_Retrieval_CVPRW_2021_paper.pdf), CVPR, 2021, [code]
+- [Compact and Effective Representations for Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content/CVPR2021W/SketchDL/papers/Torres_Compact_and_Effective_Representations_for_Sketch-Based_Image_Retrieval_CVPRW_2021_paper.pdf), CVPR, 2021, [code]
+- [DLA-Net for FG-SBIR: Dynamic Local Aligned Network for Fine-Grained Sketch-Based Image Retrieval](https://libyw.ucas.ac.cn/https/xA98B9XvuvR7wCUN7MiHZuZAC0Fp/doi/pdf/10.1145/3474085.3475705), ACM MM, 2021, [code]
+- [Domain-Aware SE Network for Sketch-based Image Retrieval with Multiplicative Euclidean Margin Softmax](https://libyw.ucas.ac.cn/https/xA98B9XvuvR7wCUN7MiHZuZAC0Fp/doi/pdf/10.1145/3474085.3475499), ACM MM, 2021, [[code]](https://github.com/Ben-Louis/SBIR-DASE-MEMS)
+- [Deep Reinforced Attention Regression for Partial Sketch Based Image Retrieval](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679102), ICDM, 2021, [[code]](https://github.com/wdr123/darp-sbir) 
+- [SceneSketcher: Fine-Grained Image Retrieval with Scene Sketches](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_42), ECCV, 2020, [code]
+- [Sketch Less for More: On-the-Fly Fine-Grained Sketch Based Image Retrieval](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bhunia_Sketch_Less_for_More_On-the-Fly_Fine-Grained_Sketch-Based_Image_Retrieval_CVPR_2020_paper.pdf), CVPR, 2020, [[code]](https://github.com/AyanKumarBhunia/on-the-fly-FGSBIR)
+- [Solving Mixed-Modal Jigsaw Puzzle for Fine-Grained Sketch-Based Image Retrieval](https://openaccess.thecvf.com/content_CVPR_2020/papers/Pang_Solving_Mixed-Modal_Jigsaw_Puzzle_for_Fine-Grained_Sketch-Based_Image_Retrieval_CVPR_2020_paper.pdf), CVPR, 2020, [code]
+- [Diagram Image Retrieval Using Sketch-Based Deep Learning and Transfer Learning](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w8/Bhattarai_Diagram_Image_Retrieval_Using_Sketch-Based_Deep_Learning_and_Transfer_Learning_CVPRW_2020_paper.pdf), CVPR, 2020, [code] 
+- [Sketchformer: Transformer-based Representation for Sketched Structure](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ribeiro_Sketchformer_Transformer-Based_Representation_for_Sketched_Structure_CVPR_2020_paper.pdf), CVPR, 2020, [[code]](https://github.com/leosampaio/sketchformer) 
+- [Deep cascaded cross-modal correlation learning for fine-grained sketch-based image retrieval](https://www.sciencedirect.com/science/article/pii/S0031320319304492), Pattern Recognit, 2020, [code]  
+
 
 ### Zero-Shot
 - [CLIP for All Things Zero-Shot Sketch-Based Image Retrieval, Fine-Grained or Not](https://openaccess.thecvf.com/content/CVPR2023/papers/Sain_CLIP_for_All_Things_Zero-Shot_Sketch-Based_Image_Retrieval_Fine-Grained_or_CVPR_2023_paper.pdf), CVPR, 2023, [[code]](https://aneeshan95.github.io/Sketch_LVM/)
 - [Zero-Shot Everything Sketch-Based Image Retrieval, and in Explainable Style](https://openaccess.thecvf.com/content/CVPR2023/papers/Lin_Zero-Shot_Everything_Sketch-Based_Image_Retrieval_and_in_Explainable_Style_CVPR_2023_paper.pdf), CVPR, 2023, [[code]](https://github.com/buptLinfy/ZSE-SBIR)
+- [Semi-transductive Learning for Generalized Zero-Shot Sketch-Based Image Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/25931), AAAI, 2023, [code]
+- [Ontology-Aware Network for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/abstract/document/10094901), ICASSP, 2023, [code]
 - [Sketch3T: Test-Time Training for Zero-Shot SBIR](https://arxiv.org/pdf/2203.14691.pdf), CVPR, 2022
+- [Augmented Multimodality Fusion for Generalized Zero-Shot Sketch-Based Visual Retrieval](https://ieeexplore.ieee.org/abstract/document/9775617), TIP, 2022, [code] 
+- [An efficient framework for zero-shot sketch-based image retrieval](https://www.sciencedirect.com/science/article/pii/S0031320322000097), Pattern Recognit, 2022, [code] 
+- [TVT: Three-Way Vision Transformer through Multi-Modal Hypersphere Learning for Zero-Shot Sketch-Based Image Retrieval](https://ojs.aaai.org/index.php/AAAI/article/view/20136), AAAI, 2022, [[code]](https://github.com/CFM-MSG/Code_TVT)
+- [Relationship-Preserving Knowledge Distillation for Zero-Shot Sketch Based Image Retrieval](https://libyw.ucas.ac.cn/https/xA98B9XvuvR7wCUN7MiHZuZAC0Fp/doi/pdf/10.1145/3474085.3475676), ACM MM, 2021, [code]
+- [Transferable Coupled Network for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9591307),  TPAMI, 2021, [[code]](https://github.com/Coll1ns-cult/NAVE-Sketch-Retriveal)
+- [Norm-guided Adaptive Visual Embedding for Zero-Shot Sketch-Based Image Retrieval](https://www.ijcai.org/proceedings/2021/0153.pdf),  IJCAI, 2021, [code]
+- [Stacked Adversarial Network for Zero-Shot Sketch based Image Retrieval](https://openaccess.thecvf.com/content_WACV_2020/papers/Pandey_Stacked_Adversarial_Network_for_Zero-Shot_Sketch_based_Image_Retrieval_WACV_2020_paper.pdf),  WACV, 2020, [code]  
+- [Zero-Shot Sketch-Based Image Retrieval via Graph Convolution Network](https://ojs.aaai.org/index.php/AAAI/article/view/6993), AAAI, 2020, [code]
+- [Progressive Cross-Modal Semantic Network for Zero-Shot Sketch-Based Image Retrieval](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9194144), TIP, 2020, [code]
+- [Semantically Tied Paired Cycle Consistency for Any-Shot Sketch-Based Image Retrieval](https://link.springer.com/article/10.1007/s11263-020-01350-x), IJCV, 2020, [code]
 
-### Scene
+### other
+[Scene designer: compositional sketch-based image retrieval with contrastive learning and an auxiliary synthesis task](https://link.springer.com/article/10.1007/s11042-022-14282-0),  Multimedia Tools and Applications, 2022, [code]
+
 
 
 ## SBVR
