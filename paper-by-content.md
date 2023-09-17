@@ -18,6 +18,8 @@
 - [Multistage Spatio-Temporal Networks for Robust Sketch Recognition](https://ieeexplore.ieee.org/abstract/document/9740528), TIP, 2022
 
 ## SSS
+- [Scene sketch semantic segmentation with hierarchical Transformer](https://www.sciencedirect.com/science/article/pii/S0950705123007128), Knowledge-Based Systems, 2023
+
 - [Sketch-Segformer: Transformer-Based Segmentation for Figurative and Creative Sketches](https://ieeexplore.ieee.org/abstract/document/10214525), TIP, 2022, [[code]]((https://github.com/PRIS-CV/Sketch-SF))
 
 - [One Sketch for All: One-Shot Personalized Sketch Segmentation](https://ieeexplore.ieee.org/abstract/document/9739995), TIP, 2022
