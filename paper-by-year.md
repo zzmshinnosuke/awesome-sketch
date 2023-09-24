@@ -42,6 +42,9 @@
 
 ### IJCAI
 
+### ICLR
+- [SketchKnitter: Vectorized Sketch Generation with Diffusion Models](https://openreview.net/pdf?id=4eJ43EN2g6l), [[code]](https://www.ravelry.com/)
+
 
 ## 2022
 ### [SIGGRAPH](http://kesen.realtimerendering.com/sig2022.html) & TOG
