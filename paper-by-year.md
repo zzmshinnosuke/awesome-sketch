@@ -52,7 +52,7 @@
 - [Detecting Viewer-Perceived Intended Vector Sketch Connectivity](https://www.cs.ubc.ca/labs/imager/tr/2022/SketchConnectivity/)
 - [CLIPasso: Semantically-Aware Object Sketching](https://clipasso.github.io/clipasso/), [[code]](https://github.com/yael-vinker/CLIPSketch)
 - [Sketch2Pose: Estimating a 3D Character Pose from a Bitmap Sketch](http://www-ens.iro.umontreal.ca/~brodtkir/projects/sketch2pose/), [[code]](https://github.com/kbrodt/sketch2pose)
-- [Symmetry-driven 3D Reconstruction From Concept Sketches]
+- [Symmetry-driven 3D Reconstruction From Concept Sketches](https://dl.acm.org/doi/pdf/10.1145/3528233.3530723)
 - [Free2CAD: Parsing Freehand Drawings into CAD Commands](https://hal.inria.fr/hal-03683482/document), [[code]](https://github.com/Enigma-li/Free2CAD)
 - [HiGAN+: Handwriting Imitation GAN with Disentangled Representations](https://dl.acm.org/doi/pdf/10.1145/3550070), [[code]](https://github.com/ganji15/HiGANplus)
 
